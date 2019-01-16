@@ -1,0 +1,144 @@
+,company,date,title,salary,All_Sectors,Accounting & Finance Jobs,Consultancy Jobs,Domestic help & Cleaning Jobs,Engineering Jobs,Healthcare & Nursing Jobs,IT Jobs,Logistics & Warehouse Jobs,Other/General Jobs,"PR, Advertising & Marketing Jobs",Unknown
+0,SoftVision   North America & UK,2018-01-01,"Technical Lead-JAVA (Relocate to New York, NY)",0,Unknown,0,0,0,0,0,0,0,0,0,1
+1,SoftVision   North America & UK,2018-01-01,"Senior Java Developer (Relocate to New York, NY)",0,Unknown,0,0,0,0,0,0,0,0,0,1
+2,Select Source International,2018-01-01,Supplier Quality Engineer III,0,Unknown,0,0,0,0,0,0,0,0,0,1
+3,Select Source International,2018-01-01,Business Development II,0,Unknown,0,0,0,0,0,0,0,0,0,1
+4,Select Source International,2018-01-01,Chemist I,0,Unknown,0,0,0,0,0,0,0,0,0,1
+5,McKinsey & Company,2018-01-01,"Transformation Officer - IoT, New Ventures",0,Consultancy Jobs,0,1,0,0,0,0,0,0,0,0
+6,McKinsey & Company,2018-01-01,Course Operations Specialist - McKinsey Academy,0,Consultancy Jobs,0,1,0,0,0,0,0,0,0,0
+7,Select Source International,2018-01-01,Calibration Technician IV,0,Unknown,0,0,0,0,0,0,0,0,0,1
+8,Creative Financial Staffing,2018-01-01,Accountant,0,Healthcare & Nursing Jobs,0,0,0,0,1,0,0,0,0,0
+9,Creative Financial Staffing,2018-01-01,Senior Financial Analyst- Accounting,0,Healthcare & Nursing Jobs,0,0,0,0,1,0,0,0,0,0
+10,Dell,2018-01-01,Global Principal Architect IT Transformation,0,Engineering Jobs,0,0,0,1,0,0,0,0,0,0
+11,Select Source International,2018-02-01,Associate Scientist I,0,Unknown,0,0,0,0,0,0,0,0,0,1
+12,Select Source International,2018-02-01,Project Specialist,0,Unknown,0,0,0,0,0,0,0,0,0,1
+13,Fitch Ratings,2018-02-01,"CMBS, Associate Director, Credit Analyst, New Issuance - CHI (11882)",0,Unknown,0,0,0,0,0,0,0,0,0,1
+14,Blue Cross and Blue Shield Association,2018-02-01,"Vice President, Medical Affairs",0,Other/General Jobs,0,0,0,0,0,0,0,1,0,0
+15,Schneider Electric,2018-02-01,Software Developer,0,IT Jobs,0,0,0,0,0,1,0,0,0,0
+16,Heartland Express,2018-02-01,Class A CDL Truck Driver,0,Unknown,0,0,0,0,0,0,0,0,0,1
+18,Heartland Express,2018-02-01,CDL-A Truck Driver - Great Pay and Routes,0,Unknown,0,0,0,0,0,0,0,0,0,1
+19,Barton Associates,2018-02-01,Psychiatrist,0,Unknown,0,0,0,0,0,0,0,0,0,1
+20,Pivotal,2018-02-01,Senior Product Manager (Pivotal Labs),0,IT Jobs,0,0,0,0,0,1,0,0,0,0
+21,RSM International,2018-02-01,Audit Manager - Brokerage and Trading,0,Consultancy Jobs,0,1,0,0,0,0,0,0,0,0
+22,Wiseway Transportation Services,2018-02-01,"Owner Operators - Excellent Pay, Miles & Home Time",0,Logistics & Warehouse Jobs,0,0,0,0,0,0,1,0,0,0
+23,OAKLEY TRUCKING,2018-02-01,"Class A CDL Owner Operators - Great Pneumatics Driver Jobs: $200,000 Average Annual Pay",0,Logistics & Warehouse Jobs,0,0,0,0,0,0,1,0,0,0
+24,OAKLEY TRUCKING,2018-02-01,"Class A CDL Owner Operators - Hopper Bottom Drivers: $150,000-$200,000 Average Annual Pay",0,Logistics & Warehouse Jobs,0,0,0,0,0,0,1,0,0,0
+25,Premier Transportation,2018-02-01,"Class A CDL Drivers - Home Regularly - New $1,000 Sign On Bonus",0,Logistics & Warehouse Jobs,0,0,0,0,0,0,1,0,0,0
+26,Panera Bread,2018-02-01,Route Delivery Driver,0,Logistics & Warehouse Jobs,0,0,0,0,0,0,1,0,0,0
+27,C.R. England,2018-02-01,"CDL Training School We Train, We Hire - Guaranteed",0,Logistics & Warehouse Jobs,0,0,0,0,0,0,1,0,0,0
+28,"Rollet Bros. Trucking Co., Inc.",2018-02-01,"OTR Class A Driver - Regional Runs, Home EVERY Weekend",0,Logistics & Warehouse Jobs,0,0,0,0,0,0,1,0,0,0
+29,Grant Thornton,2018-02-01,Controls Advisory Director - Business Risk Services,0,Accounting & Finance Jobs,1,0,0,0,0,0,0,0,0,0
+30,Williams Sonoma Inc.,2018-02-01,"Account Executive, Trade and Contract Sales, North Central Region",0,Unknown,0,0,0,0,0,0,0,0,0,1
+31,Transystems,2018-02-01,Roadway Project Engineer - Schaumburg Job,0,Unknown,0,0,0,0,0,0,0,0,0,1
+32,Select Source International,2018-02-01,Safety Compliance Manager,0,Unknown,0,0,0,0,0,0,0,0,0,1
+33,Baker Tilly,2018-02-01,Cost Segregation Consultant,0,Consultancy Jobs,0,1,0,0,0,0,0,0,0,0
+34,Accenture,2018-02-01,Pega Robotics Technical Architect,0,IT Jobs,0,0,0,0,0,1,0,0,0,0
+35,Accenture,2018-02-01,Manager - Management Consulting - Credit Transformation MW,0,Consultancy Jobs,0,1,0,0,0,0,0,0,0,0
+36,Accenture,2018-02-01,Artificial Intelligence Technical Architect,0,IT Jobs,0,0,0,0,0,1,0,0,0,0
+37,McDonalds,2018-02-01,Incident Response Manager,0,Unknown,0,0,0,0,0,0,0,0,0,1
+38,DSW,2018-03-01,Sales Associate Part-Time Job,0,Unknown,0,0,0,0,0,0,0,0,0,1
+40,RSM International,2018-03-01,Tax Manager - Financial Services State and Local Tax,0,IT Jobs,0,0,0,0,0,1,0,0,0,0
+41,ReqRoute,2018-03-01,1007 Medicaid Processing Specialist,0,Consultancy Jobs,0,1,0,0,0,0,0,0,0,0
+42,CyberCoders,2018-03-01,iSeries Developer,0,IT Jobs,0,0,0,0,0,1,0,0,0,0
+43,"Smith Transport, Inc.",2018-03-01,Class A CDL Truck Driver,0,Logistics & Warehouse Jobs,0,0,0,0,0,0,1,0,0,0
+44,ThoughtWorks,2018-03-01,Lead Data Engineer,0,IT Jobs,0,0,0,0,0,1,0,0,0,0
+45,RSM International,2018-03-01,Technology Risk Consulting Supervisor,0,IT Jobs,0,0,0,0,0,1,0,0,0,0
+46,CyberCoders,2018-03-01,Quantitative Developer,0,IT Jobs,0,0,0,0,0,1,0,0,0,0
+47,Creative Financial Staffing,2018-03-01,Accounting Manager,0,Healthcare & Nursing Jobs,0,0,0,0,1,0,0,0,0,0
+48,Cancer IQ,2018-03-01,Junior Software Engineer,0,Unknown,0,0,0,0,0,0,0,0,0,1
+49,Transystems,2018-03-01,Highway Engineer- Schaumburg Job,0,Unknown,0,0,0,0,0,0,0,0,0,1
+50,Transystems,2018-03-01,Highway Construction Engineer- Schaumburg Job,0,Unknown,0,0,0,0,0,0,0,0,0,1
+51,Williams Sonoma Inc.,2018-03-01,Culinary Expert,0,Unknown,0,0,0,0,0,0,0,0,0,1
+52,CyberCoders,2018-03-01,Senior Software Engineer - C++ & Low Latency,0,Consultancy Jobs,0,1,0,0,0,0,0,0,0,0
+53,Select Source International,2018-03-01,Field Engineer 4,0,Unknown,0,0,0,0,0,0,0,0,0,1
+54,CCC Information Services,2018-03-01,Senior Product Manager,0,IT Jobs,0,0,0,0,0,1,0,0,0,0
+55,Sharkey,2018-04-01,"CDL-A Owner Operators $1.30 cpm, Home Weekends",0,Logistics & Warehouse Jobs,0,0,0,0,0,0,1,0,0,0
+56,CRH Oldcastle,2018-04-01,"District Sales Manager - WI, IL, MN, IA, MS, ND, SD, NE",0,Unknown,0,0,0,0,0,0,0,0,0,1
+57,RSM International,2018-04-01,Audit Manager Specialty Finance,0,Consultancy Jobs,0,1,0,0,0,0,0,0,0,0
+58,Creative Financial Staffing,2018-04-01,Accounting Manager,0,Healthcare & Nursing Jobs,0,0,0,0,1,0,0,0,0,0
+59,RSM International,2018-04-01,Audit Manager Real Estate,0,Consultancy Jobs,0,1,0,0,0,0,0,0,0,0
+60,Resource Innovations,2018-04-01,Technical Program Coordinator,0,Unknown,0,0,0,0,0,0,0,0,0,1
+61,AMBC,2018-04-01,Business analyst,0,Unknown,0,0,0,0,0,0,0,0,0,1
+62,Cogent Communications,2018-04-01,Carrier Relations Specialist,0,Unknown,0,0,0,0,0,0,0,0,0,1
+63,Zeigler Auto Group,2018-04-01,Automotive Technician,0,Other/General Jobs,0,0,0,0,0,0,0,1,0,0
+64,Accenture,2018-04-01,SAP PLM (Product Lifecycle Management) Technology Consulting ManagerMidwest,0,IT Jobs,0,0,0,0,0,1,0,0,0,0
+65,Accenture,2018-04-01,Accenture Strategy Capability Network Senior Manager,0,Consultancy Jobs,0,1,0,0,0,0,0,0,0,0
+66,Accenture,2018-04-01,Financial Services - Distribution and Marketing - Senior Manager - MW,0,Consultancy Jobs,0,1,0,0,0,0,0,0,0,0
+67,Barton Associates,2018-04-01,Internal Medicine Physician,0,Unknown,0,0,0,0,0,0,0,0,0,1
+68,CyberCoders,2018-04-01,Sr Software Engineer - C#/.NET experience for IoT product,0,IT Jobs,0,0,0,0,0,1,0,0,0,0
+69,CyberCoders,2018-04-01,SAP Hybris Manager $170k,0,IT Jobs,0,0,0,0,0,1,0,0,0,0
+70,ReqRoute,2018-04-01,9060 AngularJS Developer,0,Consultancy Jobs,0,1,0,0,0,0,0,0,0,0
+71,"ENJOY, AN URBAN GENERAL STORE",2018-04-01,Retail Sales Associate,0,Unknown,0,0,0,0,0,0,0,0,0,1
+72,"RT&T Enterprises, Inc",2018-04-01,Company driver pay increase Make up to .62/mile - Home Weekly - No Northeast,0,Logistics & Warehouse Jobs,0,0,0,0,0,0,1,0,0,0
+73,Indian River Transport,2018-04-01,CDL-A Midwest Regional Tanker Truck Drivers Needed - 95 percent No Touch Freight,0,Logistics & Warehouse Jobs,0,0,0,0,0,0,1,0,0,0
+74,Indian River Transport,2018-04-01,CDL-A Team Driver Truck Driving Job Hiring Now,0,Logistics & Warehouse Jobs,0,0,0,0,0,0,1,0,0,0
+75,Indian River Transport,2018-04-01,CDL-A Regional Driver Truck Driving Job Hiring Now,0,Logistics & Warehouse Jobs,0,0,0,0,0,0,1,0,0,0
+76,Indian River Transport,2018-04-01,CDL-A OTR Driver Truck Driving Job Hiring Now,0,Logistics & Warehouse Jobs,0,0,0,0,0,0,1,0,0,0
+77,Baird,2018-04-01,"Experienced Investment Banking Analyst - Chicago, IL",0,Accounting & Finance Jobs,1,0,0,0,0,0,0,0,0,0
+78,Accenture,2018-04-01,SAP Financials Manager - Midwest Region,0,IT Jobs,0,0,0,0,0,1,0,0,0,0
+79,James Hardie,2018-04-01,Compensation Manager,0,Unknown,0,0,0,0,0,0,0,0,0,1
+80,"ABF Freight System, Inc",2018-04-01,Dock Worker Part-Time,0,Unknown,0,0,0,0,0,0,0,0,0,1
+81,"ABF Freight System, Inc",2018-04-01,Road Driver,0,Unknown,0,0,0,0,0,0,0,0,0,1
+82,Angelica Corporation,2018-04-01,Off Site Linen Department (Loyola University Medical Center),0,Unknown,0,0,0,0,0,0,0,0,0,1
+83,Zacks Investment Research,2018-04-01,Customer Support Specialist,0,Unknown,0,0,0,0,0,0,0,0,0,1
+84,"ABF Freight System, Inc",2018-04-01,City Driver Full-Time Combined Dock/P and D,0,Unknown,0,0,0,0,0,0,0,0,0,1
+85,"ABF Freight System, Inc",2018-04-01,Operations Supervisor,0,Unknown,0,0,0,0,0,0,0,0,0,1
+86,Symantec,2018-04-01,Sr Systems Engineer (Milwaukee),0,Unknown,0,0,0,0,0,0,0,0,0,1
+87,Aon Corporation,2018-04-01,Investment Consultant,0,Unknown,0,0,0,0,0,0,0,0,0,1
+88,Aspire Systems,2018-04-01,Sales Director,0,Unknown,0,0,0,0,0,0,0,0,0,1
+89,Anthem,2018-04-01,Medical Director or Associate Medical Director - FUTURE OPPORTUNITIES ONLY - 130488,0,Unknown,0,0,0,0,0,0,0,0,0,1
+90,Anthem,2018-04-01,LPN Nurse Reviewer I Sensitive Future Opportunity Any NGS Location,0,Unknown,0,0,0,0,0,0,0,0,0,1
+91,"J.Crew Group, Inc.",2018-04-01,"Visual Associate, J.Crew Retail, North Avenue Collection",0,Unknown,0,0,0,0,0,0,0,0,0,1
+92,Be Found Online,2018-04-01,SEO Account Manager,0,Unknown,0,0,0,0,0,0,0,0,0,1
+93,sds rx,2018-04-01,Independent Contractor / Owner Operator Delivery Driver,0,Unknown,0,0,0,0,0,0,0,0,0,1
+94,ArcBest,2018-04-01,Management Trainee,0,Unknown,0,0,0,0,0,0,0,0,0,1
+95,PRA Health Sciences,2018-05-01,Account Management Executive - Chicago,0,Healthcare & Nursing Jobs,0,0,0,0,1,0,0,0,0,0
+96,PRA Health Sciences,2018-05-01,Senior Clinical Research Associate - Oncology Specialist - Any Location / Near Hub,0,Healthcare & Nursing Jobs,0,0,0,0,1,0,0,0,0,0
+97,Salesforce,2018-05-01,Account Executive - Financial Services Vertical,0,IT Jobs,0,0,0,0,0,1,0,0,0,0
+98,Salesforce,2018-05-01,Account Executive - Health & Life Sciences Vertical,0,IT Jobs,0,0,0,0,0,1,0,0,0,0
+99,Melton Truck Lines,2018-05-01,CDL Class A Drivers Needed,0,Unknown,0,0,0,0,0,0,0,0,0,1
+100,Transystems,2018-05-01,Entry Level Civil/Rail Engineer- Schaumburg Job,0,Unknown,0,0,0,0,0,0,0,0,0,1
+101,CyberCoders,2018-05-01,C# Developer,0,IT Jobs,0,0,0,0,0,1,0,0,0,0
+102,Rightpoint,2018-05-01,Commerce Technology / Development Lead,0,"PR, Advertising & Marketing Jobs",0,0,0,0,0,0,0,0,1,0
+103,American Institutes For Research,2018-05-01,"Manager, Math Test Development",0,Unknown,0,0,0,0,0,0,0,0,0,1
+104,Aon Corporation,2018-05-01,Actuarial Senior Analyst,0,Unknown,0,0,0,0,0,0,0,0,0,1
+105,Salesforce,2018-05-01,Sales Leadership,0,IT Jobs,0,0,0,0,0,1,0,0,0,0
+106,PRA Health Sciences,2018-05-01,Principal Biostatistician,0,Healthcare & Nursing Jobs,0,0,0,0,1,0,0,0,0,0
+107,Travel HealthCare Jobs,2018-05-01,Travel Radiology Technician / XRay Jobs,0,Healthcare & Nursing Jobs,0,0,0,0,1,0,0,0,0,0
+108,Florilli Transportation,2018-05-01,CDL-A OTR & Regional Truck Drivers Get 2500-3000 Solo Miles Each Week,0,Logistics & Warehouse Jobs,0,0,0,0,0,0,1,0,0,0
+109,Baird,2018-05-01,"Investment Banking Vice President - Tech & Services (Chicago, IL)",0,Accounting & Finance Jobs,1,0,0,0,0,0,0,0,0,0
+110,J.S. Helwig and Sons LLC,2018-05-01,Company Truck Driver (CDL-A),0,Unknown,0,0,0,0,0,0,0,0,0,1
+115,Travel HealthCare Jobs,2018-05-01,Vascular Ultrasound Technician Jobs,0,Healthcare & Nursing Jobs,0,0,0,0,1,0,0,0,0,0
+116,Heyl Truck Lines,2018-05-01,Class A CDL Truck Driver - Earn up to 52 CPM,0,Logistics & Warehouse Jobs,0,0,0,0,0,0,1,0,0,0
+117,Sisbro,2018-05-01,CDL A Truck Driver - Regional Positions,0,Logistics & Warehouse Jobs,0,0,0,0,0,0,1,0,0,0
+118,NBC Universal,2018-05-01,Digital Sales Director (NBC & Telemundo Chicago),0,Unknown,0,0,0,0,0,0,0,0,0,1
+119,HNTB Companies,2018-05-01,Resident Engineer,0,Engineering Jobs,0,0,0,1,0,0,0,0,0,0
+120,RSM International,2018-05-01,Risk Advisory Director,0,Consultancy Jobs,0,1,0,0,0,0,0,0,0,0
+121,CCC Information Services,2018-05-01,"Director, Product Management - Casualty",0,IT Jobs,0,0,0,0,0,1,0,0,0,0
+122,DHL Supply Chain,2018-05-01,CDL - CLASS A TRACTOR TRAILER DRIVERS - REGIONAL ROUTES,0,Logistics & Warehouse Jobs,0,0,0,0,0,0,1,0,0,0
+123,Arcadis,2018-05-01,Water / Wastewater / Stormwater Project Manager,0,Consultancy Jobs,0,1,0,0,0,0,0,0,0,0
+124,Capco,2018-05-01,Management Consultant,0,Consultancy Jobs,0,1,0,0,0,0,0,0,0,0
+125,Relativity,2018-05-01,"Director, Engineering",0,IT Jobs,0,0,0,0,0,1,0,0,0,0
+126,Relativity,2018-05-01,Senior Product Manager,0,IT Jobs,0,0,0,0,0,1,0,0,0,0
+127,Anthem,2018-05-01,"Audit & Reimbursement IIFuture Opportunity Indianapolis, IN",0,Unknown,0,0,0,0,0,0,0,0,0,1
+128,Anthem,2018-05-01,"Audit & Reimbursement LeadFuture Opportunity Indianapolis, IN",0,Unknown,0,0,0,0,0,0,0,0,0,1
+129,Anthem,2018-05-01,"Outreach & Education Representative Future Opportunity Indianapolis, IN",0,Unknown,0,0,0,0,0,0,0,0,0,1
+130,AmTrust,2018-06-01,Director of Claims Operational Analytics,0,Other/General Jobs,0,0,0,0,0,0,0,1,0,0
+131,TriNet Group,2018-06-01,"Director, Industry Sales",0,Consultancy Jobs,0,1,0,0,0,0,0,0,0,0
+132,RSM International,2018-06-01,State & Local Tax - Automation Senior Manager,0,Consultancy Jobs,0,1,0,0,0,0,0,0,0,0
+133,Able Services,2018-06-01,Safety Manager,0,Unknown,0,0,0,0,0,0,0,0,0,1
+134,RSM International,2018-06-01,State and Local Tax Senior Associate,0,Consultancy Jobs,0,1,0,0,0,0,0,0,0,0
+135,Sitter,2018-06-01,Sitter Wanted - Babysitter Wanted M F For Picking Up My 5th Grade Son.,0,Domestic help & Cleaning Jobs,0,0,1,0,0,0,0,0,0,0
+136,Baker Tilly,2018-06-01,Consulting Manager-Healthcare,0,Consultancy Jobs,0,1,0,0,0,0,0,0,0,0
+137,Babysits,2018-06-01,Babysitter wanted in Chicago - babysitting Chicago,0,Domestic help & Cleaning Jobs,0,0,1,0,0,0,0,0,0,0
+139,James Hardie,2018-06-01,Customer Account Representative,0,Unknown,0,0,0,0,0,0,0,0,0,1
+140,Presence Health,2018-06-01,"Sterile Processing Tech, Chicago",0,Unknown,0,0,0,0,0,0,0,0,0,1
+141,Crowe Horwath,2018-06-01,ETL/BI Implementation Senior Manager,0,IT Jobs,0,0,0,0,0,1,0,0,0,0
+142,Paschall Truck Lines,2018-06-01,CDL-A Owner Operator Truck Driver Jobs,0,Logistics & Warehouse Jobs,0,0,0,0,0,0,1,0,0,0
+143,Crowe Horwath,2018-06-01,Public Sector ERP Project Manager,0,IT Jobs,0,0,0,0,0,1,0,0,0,0
+144,Lionbridge Technologies,2018-06-01,AEM,0,IT Jobs,0,0,0,0,0,1,0,0,0,0
+145,Crowe Horwath,2018-06-01,Denials Subject Matter Expert - Performance Healthcare,0,IT Jobs,0,0,0,0,0,1,0,0,0,0
+146,Crowe Horwath,2018-06-01,Financial Services Risk and Compliance Model Validation Consultant,0,IT Jobs,0,0,0,0,0,1,0,0,0,0
+147,ReqRoute,2018-06-01,9060 Automation Tester,0,Consultancy Jobs,0,1,0,0,0,0,0,0,0,0
+148,Crowe Horwath,2018-06-01,Anti-Money Laundering,0,Accounting & Finance Jobs,1,0,0,0,0,0,0,0,0,0
+149,Crowe Horwath,2018-06-01,ERP Project Manager,0,IT Jobs,0,0,0,0,0,1,0,0,0,0

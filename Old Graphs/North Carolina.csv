@@ -1,0 +1,1137 @@
+,company,date,title,salary,All_Sectors,Accounting & Finance Jobs,Admin Jobs,Consultancy Jobs,Customer Services Jobs,Engineering Jobs,Graduate Jobs,Healthcare & Nursing Jobs,Hospitality & Catering Jobs,IT Jobs,Legal Jobs,Logistics & Warehouse Jobs,Manufacturing Jobs,Other/General Jobs,"PR, Advertising & Marketing Jobs",Sales Jobs,Scientific & QA Jobs,Teaching Jobs,Trade & Construction Jobs,Unknown
+0,DELL,2018-03,"Account Executive, Public Sector Accounts (Remote: Raleigh, NC)",0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1,Capgemini,2018-07,Software Engineer,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2,Capgemini,2018-07,Senior Software Engineer,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+3,Hearst Television,2018-07,Photographer,0,"PR, Advertising & Marketing Jobs",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+4,Cox Media Group,2018-07,Multi-Media Reporter - Telemundo Charlotte,0,"PR, Advertising & Marketing Jobs",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+5,Hearst Television,2018-08,Account Executive,0,"PR, Advertising & Marketing Jobs",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+6,DELL,2018-08,Client Principal,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+7,Capgemini,2018-08,Data Privacy Leader,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+8,DELL,2018-09,"GCCS Account Executive - Charlotte, NC",0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9,Cox Media Group,2018-09,Promotion Producer Telemundo,0,"PR, Advertising & Marketing Jobs",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+10,Cox Media Group,2018-09,Anchor,0,"PR, Advertising & Marketing Jobs",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+11,DELL,2018-09,"GCCS Account Executive - Richmond, VA",0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+12,NetApp,2018-09,Lead Management Analyst (26617),0,IT Jobs,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+13,Capgemini,2018-09,Data Quality Developer/ Ab Initio - DQE,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+14,"Hayman Daugherty Associates, Inc",2018-09,Emergency Medicine Physician Job North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+15,"Hayman Daugherty Associates, Inc",2018-09,ObGyn Physician Job North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+16,"Hayman Daugherty Associates, Inc",2018-09,Coastal North Carolina OB/Gyn,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+17,National Health Partners,2018-09,Gastroenterologist Needed for Outpatient Practice in Eastern North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+18,The Toberson Group,2018-09,Internal Medicine - Out-patient,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+19,National Health Partners,2018-09,North Carolina-Family Physician with OB needed,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+20,KPS Physician Staffing,2018-09,Outpatient Group Physician in Eastern North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+24,"Hayman Daugherty Associates, Inc",2018-09,Gastroenterology Physician Job North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+25,"Hayman Daugherty Associates, Inc",2018-09,Hospitalist Physician Job North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+27,"Hayman Daugherty Associates, Inc",2018-09,Internal Medicine Physician Job North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+28,"Hayman Daugherty Associates, Inc",2018-09,Urgent Care Physician Job North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+30,National Health Partners,2018-09,Western North Carolina College Town seeking Family Physician to do Obstetrics,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+31,"Hayman Daugherty Associates, Inc",2018-09,Pediatrics Physician Job North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+32,TeedCo. Healthcare Recruiting,2018-09,Hospitalist,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+33,KPS Physician Staffing,2018-09,North Carolina Emergency Medicine Physician,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+34,FCSpsy,2018-09,Adult and Geriatric Psychiatrist,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+35,KPS Physician Staffing,2018-09,Outpatient Internal Medicine or Family Practice Physician Needed,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+37,SourceMD,2018-09,FP with OB- near Raleigh,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+38,SourceMD,2018-09,OBGYN Opportunity- Near Charlotte,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+39,SourceMD,2018-09,Urgent Care Opportunity- near Raleigh,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+40,SourceMD,2018-09,Pediatric -Near Winston-Salem/Greensboro area,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+41,SourceMD,2018-09,Urology Opportunity- near Raleigh,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+42,SourceMD,2018-09,Neurology Opportunity- near Raleigh,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+48,"Necnic Group, LLC",2018-09,Hospitalist Opportunity in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+51,"Hayman Daugherty Associates, Inc",2018-09,"OBGYN needed outside of Charlotte, NC - Wonderful opportunity",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+55,"Hayman Daugherty Associates, Inc",2018-09,Psychiatry Physician Job North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+56,"Hayman Daugherty Associates, Inc",2018-09,Locums opportunity for Emergency Medicine Physician,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+57,TeedCo. Healthcare Recruiting,2018-09,Exciting opportunity for Emergency Medicine Physicians in the beautiful Charlotte North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+60,"Hayman Daugherty Associates, Inc",2018-09,Northeast North Carolina Outpatient Internal Medicine,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+62,National Health Partners,2018-09,Western North Carolina seeking Hospitalist in a highly requested area,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+63,TeedCo. Healthcare Recruiting,2018-09,Exciting opportunity for Emergency Medicine Physicians in beautiful North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+64,National Health Partners,2018-09,Western North Carolina Seeking Gastroenterologist,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+65,TeedCo. Healthcare Recruiting,2018-09,Emergency Medicine Physician for Great Group,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+66,"Hayman Daugherty Associates, Inc",2018-09,Research Triangle North Carolina Internal Medicine,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+67,"Hayman Daugherty Associates, Inc",2018-09,Locums Hospitalist Need Popular Metro North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+68,National Health Partners,2018-09,"New Hospitalist positions – One Hour from Charlotte, NC",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+69,SourceMD,2018-09,OBGYN Opportunity- near Raleigh,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+70,SourceMD,2018-09,Psychiatry Opportunity- Near Charlotte,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+71,SourceMD,2018-09,Neuro Hospitalist- Near Charlotte,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+72,The Toberson Group,2018-09,Neurology Hospitalist,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+73,NHR,2018-09,Emergency Medicine Physicians needed in NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+74,"Hayman Daugherty Associates, Inc",2018-09,"IM needed NC, telephone call only",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+75,"Hayman Daugherty Associates, Inc",2018-09,Hospitalist needed in Central NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+76,NHR,2018-09,"Psychiatry Physician needed in Western, NC.",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+77,"Hayman Daugherty Associates, Inc",2018-09,Hospitalist Needed in Northeastern North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+78,Medical Search International,2018-09,"Hospitalists / Greater Raleigh, NC / Perm",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+79,"iMed Staffing, LLC",2018-09,Internal Medicine MD to join practice near Fayetteville NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+80,Continuum Medical Staffing,2018-09,Psychiatry Adult/ Academic Greenville NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+81,National Health Partners,2018-09,Western North Carolina seeking Pediatrician,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+82,Continuum Medical Staffing,2018-09,Urgent Care Kannapolis NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+83,"Necnic Group, LLC",2018-09,Neurologist Needed in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+84,Medical Search International,2018-09,"Primary Care / Hertford County, NC / Locums to Perm Opportunity",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+85,NHR,2018-09,"OB/GYN NEED MINUTES TO WINSTON SALEM,NC ",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+86,"Hayman Daugherty Associates, Inc",2018-09,BC Internist Opening in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+87,National Health Partners,2018-09,Western North Carolina seeking Hospitalist and Nocturnist in a highly requested area,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+88,"DOCTORS CHOICE PLACEMENT SERVICES, INC.",2018-09,Gastroenterology Opportunity in Eastern North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+89,NHR,2018-09,NC Pediatric opportunity,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+90,Goldfish Medical Staffing,2018-09,Immediate Opening in NC – Hospital Employed Urologist (5093 PH),0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+91,"Hayman Daugherty Associates, Inc",2018-09,BC Pediatrician Opening in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+92,Austin Major Group,2018-09,New Psychiatry Locums Position in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+93,Austin Major Group,2018-09,New Gastroenterology Locums Position in Coastal NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+94,Continuum Medical Staffing,2018-09,Pediatrics MT Airy NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+95,"Hayman Daugherty Associates, Inc",2018-09,"Hospitalist - Immediate need in NC, close to Charlotte, NC",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+96,"MD Staff Pointe, LLC",2018-09,EM Director Needed to Permanently Join a Facility in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+97,Medical Search International,2018-09,Pediatricians Needed in Western NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+98,"Necnic Group, LLC",2018-09,Neurology Opportunity in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+99,Integrity Healthcare,2018-09,Outpatient Internal Medicine Opening in Eastern North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+100,Medical Search International,2018-09,IM/BC- No Procedure Hospitalist needed,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+101,Continuum Medical Staffing,2018-09,Psychiatrist,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+102,Enterprise Medical Recruiting,2018-09,Psychiatry - 60 Minutes from Charlotte,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+103,Enterprise Medical Recruiting,2018-09,"Charlotte, North Carolina Psychiatry",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+104,KPS Physician Staffing,2018-09,ED Physician Job in Scenic North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+105,KPS Physician Staffing,2018-09,EM Opportunity in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+106,Continuum Medical Staffing,2018-09,Hospitalist Hickory NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+107,"DOCTORS CHOICE PLACEMENT SERVICES, INC.",2018-09,OB/GYN Opportunity in Beautiful Northwest North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+108,"Consilium Staffing, LLC",2018-09,"Hiring Locum Tenens Psychiatrist, TelePsychiatry—North Carolina",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+109,"DOCTORS CHOICE PLACEMENT SERVICES, INC.",2018-09,Medical Director - Hospitalist Opportunity in Eastern North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+110,"Hayman Daugherty Associates, Inc",2018-09,Academic Adult Psychiatrist in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+111,MedSource Consultants,2018-09,Adult Psychiatrist,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+117,Physician Providers Mgmt. Corp.,2018-09,"Hospitalist AND ObGyn opportunities available in Western & Central, North Carolina",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+120,Integrity Healthcare,2018-09,Growing Hospitalist Program Growing in Northeast North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+121,Alpha Medical Group,2018-09,Employed position offering excellent compensation for an OB/GYN.,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+124,Continuum Medical Staffing,2018-09,Hospitalist Crystal Coast NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+125,"iMed Staffing, LLC",2018-09,Psychiatrist for large psychiatric group practice - Wake Forest area NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+134,"MD Staff Pointe, LLC",2018-09,Permanent Hospitalist/Internal Medicine Opportunity in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+139,"Consilium Staffing, LLC",2018-09,Hiring Psychiatrist ASAP—East-Central North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+140,Enterprise Medical Recruiting,2018-09,Employed Group Neurology position in Charlotte NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+143,Enterprise Medical Recruiting,2018-09,Academic Telepsychiatry in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+144,TeedCo. Healthcare Recruiting,2018-09,Exciting Emergency Medicine Physician opportunity in a beautiful resort community,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+145,"Hayman Daugherty Associates, Inc",2018-09,North Carolina Northeast Hospitalist,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+146,Enterprise Medical Recruiting,2018-09,North Carolina Pediatric Position 4 Days a Week,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+147,Echo Locum Tenens,2018-09,Hospitalist opportunity in central North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+148,National Health Partners,2018-09,Western North Carolina College Town 500 student athletes seeking Physiatrist,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+149,Enterprise Medical Recruiting,2018-09,Outpatient Psychiatry in the Charlotte Metro Area,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+150,Enterprise Medical Recruiting,2018-09,"Employed Neurology position in Clinton, NC",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+151,National Health Partners,2018-09,SOUTHEAST NORTH CAROLINA SEEKING INTERNAL MEDICINE OR FAMILY PRACTICE PHYSICIAN,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+152,FCSpsy,2018-09,Genersl Psychiatrist,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+153,SourceMD,2018-09,Psychiatry Opportunity- Metro area NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+154,Medical Search International,2018-09,Hospitalist NC needed ASAP- Start Nov 1st -Ongoing,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+155,SourceMD,2018-09,Internal Medicine Opportunity- Near Charlotte,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+156,Enterprise Medical Recruiting,2018-09,North Carolina group adding a Hospitalist,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+157,Enterprise Medical Recruiting,2018-09,"Internal Medicine Physician, west of Winston-Salem",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+159,SourceMD,2018-09,ER Opportunty- near Raleigh,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+160,SourceMD,2018-09,ER Opportunity-Near Winston-Salem/Greensboro,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+161,SourceMD,2018-09,OBGYN - Near Winston- Salem/ Greensboro area,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+164,National Health Partners,2018-09,"General Neurologist Opportunity - Western, North Carolina",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+165,National Health Partners,2018-09,"Nocturnist Opportunity - Western, North Carolina",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+166,Easter Medical Staffing,2018-09,Anesthesiologist needed in Western North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+169,Integrity Healthcare,2018-09,Psychiatrists for a growing group1.5 hours from the North Carolina Coast,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+185,"Necnic Group, LLC",2018-09,Urology Opportunity in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+187,Integrity Healthcare,2018-09,Internal Medicine Opening in Coastal North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+188,"MD Staff Pointe, LLC",2018-09,Locum - IM/Med-Peds/FM Hospitalist Needed in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+189,Alliance Recruiting Resources,2018-09,Excellent Opportunity,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+190,TeedCo. Healthcare Recruiting,2018-09,Outstanding Emergency Medicine Physician opportunities in gorgeous North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+191,TeedCo. Healthcare Recruiting,2018-09,Outstanding Emergency Medicine Physician opportunity is hospitable North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+192,NHR,2018-09,OUTPATIENT INTERNAL MEDICINE NEED IN COASTAL NORTH CAROLINA,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+193,TeedCo. Healthcare Recruiting,2018-09,Exciting Emergency Medicine Physician Positions in the heart of Charlotte,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+194,TeedCo. Healthcare Recruiting,2018-09,Outstanding Emergency Medicine Physician opportunities in friendly North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+195,Medical Search International,2018-09,Central NC Permanent Psychiatry Position,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+197,"Hayman Daugherty Associates, Inc",2018-09,Internal Medicine Physician for Coastal North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+198,National Health Partners,2018-09,SOUTHEAST NORTH CAROLINA SEEKING HOSPITALIST – DAY AND NOCTURNIST OPPORTUNITIES,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+199,Enterprise Medical Recruiting,2018-09,Group GI position in New Bern NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+200,Enterprise Medical Recruiting,2018-09,Northeastern NC Group Adding Ob/Gyn Physician,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+201,"Hayman Daugherty Associates, Inc",2018-09,Hospital-based Neurology position in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+202,SourceMD,2018-09,Internal Medicine- North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+203,SourceMD,2018-09,Internal Medicine Opportunity- Near Raleigh,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+204,RCM Health Care Services,2018-09,North Carolina Emergency Medicine Physician Need,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+205,Advanced Medical Personnel,2018-09,Pediatric Physician,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+206,SourceMD,2018-09,Psychiatrist- North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+207,"Necnic Group, LLC",2018-09,Internal Medicine Opportunity in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+208,"Consilium Staffing, LLC",2018-09,"Hiring Locum Tenens Psychiatrist, Part-Time—North Carolina",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+209,"Consilium Staffing, LLC",2018-09,"Hiring Locum Tenens Psychiatrist, Full-Time Outpatient—North Carolina",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+213,SourceMD,2018-09,Neurology -Near Winston-Salem/Greensboro area,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+214,SourceMD,2018-09,Neurology Opportunity- near Charlotte,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+215,SourceMD,2018-09,IM Opportunity- near Raleigh,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+216,SourceMD,2018-09,Emergency Medicine- Near Charlotte,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+217,Enterprise Medical Recruiting,2018-09,"Heart of the Inner Banks, North Carolina-Psychiatry Opening",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+218,National Health Partners,2018-09,Western North Carolina seeking Emergency Medicine Physician in a highly requested area,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+219,Enterprise Medical Recruiting,2018-09,Clinical Neurophysiology position in Winston-Salem NC suburb,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+221,Echo Locum Tenens,2018-09,New Opportunities for PRN/Hospitalists in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+223,Enterprise Medical Recruiting,2018-09,"Expanding Hospitalist Group - 45 Minutes from Raleigh, NC",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+224,"Atrium Health, formerly Carolinas HealthCare System",2018-09,"Atrium Health - GENERAL NEUROLOGY Hybrid position – Pineville, NC",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+225,"Hayman Daugherty Associates, Inc",2018-09,1 hour from Charlotte,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+230,TeedCo. Healthcare Recruiting,2018-09,Excellent Emergency Medicine Physician opportunity in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+231,TeedCo. Healthcare Recruiting,2018-09,Exciting position for Emergency Medicine Physicians in beautiful Charlotte,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+232,TeedCo. Healthcare Recruiting,2018-09,Exciting Emergency Medicine Physician position in the biggest,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+233,"Necnic Group, LLC",2018-09,Internal Medicine Opportunity in Virginia,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+234,KPS Physician Staffing,2018-09,North Carolina ER Physician Opportunity,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+235,KPS Physician Staffing,2018-09,EM Physician Needed in Lovely North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+236,KPS Physician Staffing,2018-09,Coastal North Carolina Emergency Medicine Opportunity,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+237,"MD Staff Pointe, LLC",2018-09,Exciting Urologist Opportunity in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+238,Integrity Healthcare,2018-09,General Neurology Opportunity in Eastern North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+239,KPS Physician Staffing,2018-09,Traditional Internal Medicine Physician Needed in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+240,Enterprise Medical Recruiting,2018-09,Hospitalist - Coastal North Carolina Living,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+241,Enterprise Medical Recruiting,2018-09,"Chief Hospitalist Near Raleigh, North Carolina",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+242,SourceMD,2018-09,Internal Medicine Opportunity near Raleigh,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+243,"MD Staff Pointe, LLC",2018-09,2643,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+244,"Hayman Daugherty Associates, Inc",2018-09,Neurology Practice in Western North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+245,SourceMD,2018-09,Internist -Near Winston-Salem/Greensboro area,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+246,SourceMD,2018-09,Hospitalist Opportunity- near Raleigh,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+247,National Health Partners,2018-09,Western North Carolina Seeking Internal Medicine Physician,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+248,SourceMD,2018-09,Pediatric Opportunity- North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+250,SourceMD,2018-09,Hospitalist Opportunity- Charlotte area,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+253,Enterprise Medical Recruiting,2018-09,"Outpatient Neurology position in coastal Wilmington, NC",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+254,KPS Physician Staffing,2018-09,Internal Medicine Group Seeking Board Certified Resident,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+255,"Necnic Group, LLC",2018-09,Psychiatry Opportunity in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+256,"Hayman Daugherty Associates, Inc",2018-09,Hospitalist Needed in Eastern North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+257,"MD Staff Pointe, LLC",2018-09,Internal Medicine/Family Medicine/Hospitalist Opportunity in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+258,Enterprise Medical Recruiting,2018-09,Internal Medicine Opportunity in Central North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+259,"Hayman Daugherty Associates, Inc",2018-09,EM Physician Needed in Eastern North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+260,Enterprise Medical Recruiting,2018-09,"Outpatient Primary Care Position in Dunn, NC",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+262,"Hayman Daugherty Associates, Inc",2018-09,Psychiatry opening in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+263,Enterprise Medical Recruiting,2018-09,"Raleigh, NC Health Care System seeks a Psychiatrist for Monday-Friday Schedule",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+267,Continuum Medical Staffing,2018-09,Pediatrician MT Airy NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+268,Medicus Healthcare Solutions,2018-09,North Carolina Family Medicine Opportunity - Full Support Staff,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+269,"Hayman Daugherty Associates, Inc",2018-09,ObGyn on North Carolina's Outer Banks,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+270,"Hayman Daugherty Associates, Inc",2018-09,Med-Ped/Internal/Family Hospitalist in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+271,"Hayman Daugherty Associates, Inc",2018-09,Med-Peds Hospitalist in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+274,"Hayman Daugherty Associates, Inc",2018-09,Outpatient Psychiatric practice in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+275,"Hayman Daugherty Associates, Inc",2018-09,Psychiatry private practice in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+276,NHR,2018-09,Obgyn Physician needed in Western NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+277,"Necnic Group, LLC",2018-09,Urgent Care Physician Need in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+278,Austin Major Group,2018-09,New Hospitalist Locums Position in Coastal NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+279,Continuum Medical Staffing,2018-09,Hospitalist ( IM) Wilson NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+280,"Hayman Daugherty Associates, Inc",2018-09,Hospitalist and Nocturnist openings for a growing,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+287,Continuum Medical Staffing,2018-09,"Family Practice Opportun ity Near Charlotte, NC",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+288,"Hayman Daugherty Associates, Inc",2018-09,Medical Director opening in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+289,"DOCTORS CHOICE PLACEMENT SERVICES, INC.",2018-09,Pediatrics Opportunity in Eastern North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+291,"MD Staff Pointe, LLC",2018-09,Permanent ObGYN Opportunity in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+292,TeedCo. Healthcare Recruiting,2018-09,Outstanding Hospitalist position in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+293,National Health Partners,2018-09,Western North Carolina Seeking Urologist,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+294,Enterprise Medical Recruiting,2018-09,"Outpatient IM need in Durham, NC",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+295,Continuum Medical Staffing,2018-09,Psychiatrist Locum,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+296,"Hayman Daugherty Associates, Inc",2018-09,Permanent opening for Gastroenterologist in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+297,"Hayman Daugherty Associates, Inc",2018-09,Busy North Carolina ER Opening,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+298,Echo Locum Tenens,2018-09,Hospitalist opportunities in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+299,RCM Health Care Services,2018-09,Locums Hospitalist with EM Experience Needed in NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+300,SourceMD,2018-09,Gstroenterology Opportunity- near Raleigh,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+301,Source Medical,2018-09,Intensivist need in metro NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+302,Quest Healthcare Solutions,2018-09,Hospitalist| Locum Tenens Needed in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+304,SourceMD,2018-09,Psychiatry Opportunity- near Raleigh,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+305,KPS Physician Staffing,2018-09,Thriving Medical Community Seeks Locums Hospitalist in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+306,Echo Locum Tenens,2018-09,NOCTURNIST NEEDED IN NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+307,Continuum Medical Staffing,2018-09,Internal Medicine Mt Airy NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+308,"Necnic Group, LLC",2018-09,Hospitalist opportunity in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+309,Enterprise Medical Recruiting,2018-09,"Adding Internist 1 Hour from Charlotte or Asheville, NC",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+310,Enterprise Medical Recruiting,2018-09,Outpatient Neurology opening in Winston Salem suburb,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+312,Continuum Medical Staffing,2018-09,Gastroenterology ( ERCP) Greenville NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+313,National Health Partners,2018-09,Western North Carolina seeking Internal Medicine Physician in a highly requested area,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+314,KPS Physician Staffing,2018-09,Emergency Medicine Position in Beautiful North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+315,National Health Partners,2018-09,SEEKING INTERNAL MEDICINE PHYSICIAN IN SE NORTH CAROLINA,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+316,KPS Physician Staffing,2018-09,North Carolina Psychiatry Opportunity for Physician,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+317,"Teladoc Physicians, P.A.",2018-09,Supplement Your Income - TELEMEDICINE,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+318,Medical Search International,2018-09,Ongoing need- Internal Medicine- Gastroenterology - North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+320,Source Medical,2018-09,NeuroHospitalist Opening in Metro North Carolina in 900-bed Level I Facility,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+322,"Hayman Daugherty Associates, Inc",2018-09,Gastroenterologist Opening in NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+323,Medicus Healthcare Solutions,2018-09,Full-Time Hospitalist Opportunity in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+324,"MD Staff Pointe, LLC",2018-09,Emergency Medicine Locums - North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+325,"Hayman Daugherty Associates, Inc",2018-09,Psychiatry practice in the highly desirable North Carolina Mountains,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+326,"Necnic Group, LLC",2018-09,Urgent Care Opportunity in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+327,Continuum Medical Staffing,2018-09,Internal Medicine,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+328,Medicus Healthcare Solutions,2018-09,Adult Psychiatry Opportunity in Eastern North Carolina – Sign-on Incentive Available,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+329,Medicus Healthcare Solutions,2018-09,OB/GYN Opportunity in North Carolina – Market Competitive Compensation with Full Benefits,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+330,NHR,2018-09,Obstetrics & Gynecology Physician needed in Western NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+331,Alpha Medical Group,2018-09,Be employed by a health system and work in a 100% Outpatient setting.,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+332,KPS Physician Staffing,2018-09,North Carolina Psychiatry Physician,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+333,Enterprise Medical Recruiting,2018-09,Employed Neurology position in Wilmington NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+334,Alpha Medical Group,2018-09,Hospitalist opportunity with block schedule.,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+335,"MD Staff Pointe, LLC",2018-09,Psychiatrist Needed to Permanently Join a Facility in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+336,Medical Search International,2018-09,Anesthesia Locums Opportunity in Eastern North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+337,Continuum Medical Staffing,2018-09,Urgent Care Jacksonville NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+338,"Necnic Group, LLC",2018-09,Neurology Oportunity in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+339,Ascend Medical Staffing,2018-09,HOSPITALISTS NEEDED IN NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+340,"DOCTORS CHOICE PLACEMENT SERVICES, INC.",2018-09,Hospitalist Opportunity in Eastern North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+341,"Interim Physicians, LLC",2018-09,Locum Tenens Emergency Medicine Physician Position in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+342,"MD Staff Pointe, LLC",2018-09,Hospitalist needed to permanently join a facility in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+343,Enterprise Medical Recruiting,2018-09,"Hospitalist & Nocturnist Openings - 45 minutes from Raleigh, North Carolina",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+345,Integrity Healthcare,2018-09,Outpatient Internal Medicine Opening West of Winston-Salem,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+346,LocumTenens.com,2018-09,Multiple Psychiatrists Needed for Outpatient Coverage in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+347,Alpha Medical Group,2018-09,"Be the first Neurologist in this outpatient setting. No call, no nights, no weekends.",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+348,Goldfish Medical Staffing,2018-09,North Carolina Neurohospitalist Opportunity (9203 LM),0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+349,"DOCTORS CHOICE PLACEMENT SERVICES, INC.",2018-09,New: Primary Care Opportunities (2) in Western North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+350,Physician Providers Mgmt. Corp.,2018-09,OBGYN opportunity in NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+351,"MD Staff Pointe, LLC",2018-09,Neuro-Oncologist needed to permanently join a facility in NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+352,Continuum Medical Staffing,2018-09,Urology Near Greenville NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+353,"DOCTORS CHOICE PLACEMENT SERVICES, INC.",2018-09,Primary Care Opportunity - Western North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+354,Continuum Medical Staffing,2018-09,Internal Medicine/Mt. Airy NC-LB,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+355,Locums Unlimited,2018-09,Emergency Medicine opportunity in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+356,Medical Search International,2018-09,Hospitalist- North Carolina Procedures & No Procedures,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+358,"Consilium Staffing, LLC",2018-09,Hiring Locum Tenens Anesthesiologist—North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+359,Hospitalists Plus,2018-09,Hospitalists Needed for Dec/January - Summer 2018 in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+360,"Necnic Group, LLC",2018-09,Psychiatry Need in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+361,"DOCTORS CHOICE PLACEMENT SERVICES, INC.",2018-09,Hospitalist Physician Opportunity in Eastern North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+362,"DOCTORS CHOICE PLACEMENT SERVICES, INC.",2018-09,Psychiatry Opportunities in Eastern North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+363,"DOCTORS CHOICE PLACEMENT SERVICES, INC.",2018-09,New: OB/GYN Opportunity in Beautiful Northwest North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+364,Medical Search International,2018-09,Internal Medicine Opportunity in Western NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+365,"Teladoc Physicians, P.A.",2018-09,PsychiatristsSupplement Your Income,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+366,Enterprise Medical Recruiting,2018-09,Pulmonary/Sleep Medicine Physician Position Sunny S/W Florida,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+367,Weatherby Healthcare,2018-09,Neurology in NC - Locums: Locum Tenens Neurology Coverage is Needed in NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+368,"DOCTORS CHOICE PLACEMENT SERVICES, INC.",2018-09,Hospitalist Opportunity in Beautiful Northwest North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+369,Integrity Healthcare,2018-09,OB-GYN Physician Opening; 1 Hr From the Beaches in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+370,Continuum Medical Staffing,2018-09,Psychiatry Western NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+371,"Hayman Daugherty Associates, Inc",2018-09,Inpatient Psychiatrist Needed in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+372,"Hayman Daugherty Associates, Inc",2018-09,Neuro-Oncologist Needed in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+373,"Hayman Daugherty Associates, Inc",2018-09,Psychiatrist Needed in Eastern North Carolina - New grads accepted,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+374,Source Medical,2018-09,Traditional or Inpatient Director in Coastal North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+375,NHR,2018-09,"Neurology Physician needed near Charlotte, NC",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+376,NHR,2018-09,Emergency Medicine - Beautiful NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+377,Echo Locum Tenens,2018-09,Hospitalists for the North Carolina Area,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+380,Enterprise Medical Recruiting,2018-09,"Outpatient Adult Psychiatry in Charlotte, North Carolina",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+381,Goldfish Medical Staffing,2018-09,North Carolina Urologist Opportunity (9159 LM),0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+383,NHR,2018-09,Child Abuse Pediatrician - Beautiful NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+384,NHR,2018-09,Fantastic North Carolina Psychiatry Opportunity,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+385,Enterprise Medical Recruiting,2018-09,Charlotte Metro Neurology position,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+386,NHR,2018-09,Hospitalist needed in beautiful Western North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+387,Enterprise Medical Recruiting,2018-09,Join a team in North Carolina- One hour from Raleigh,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+388,Integrity Healthcare,2018-09,Psychiatrist Position in Western North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+389,Medical Search International,2018-09,No Procedures Needed HOSPPITALIST,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+390,"MEDPATH PARTNERS, LLC",2018-09,Urgent Care Physician,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+391,Integrity Healthcare,2018-09,Internal Medicine Physician - Home Visitation Opportunity in Triad area of North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+392,Enterprise Medical Recruiting,2018-09,"New Bern, NC Outpatient Internal Medicine Position",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+393,"DOCTORS CHOICE PLACEMENT SERVICES, INC.",2018-09,Hospitalist & Nocturnist Opportunities Available - Eastern North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+394,Source Medical,2018-09,Internal Medicine - Residency Director,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+395,Integrity Healthcare,2018-09,Emergency Medicine Physician Needed - North Carolina - Critical Access Hospital - Blue Ridge Mts,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+396,"MD Staff Pointe, LLC",2018-09,Permanent Family Medicine Vice Chair Opportunity in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+397,Source Medical,2018-09,Expanding Gastroenterology Practice in Northern North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+398,Continuum Medical Staffing,2018-09,Urgent Care Hertford NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+399,Source Medical,2018-09,Immediate Hospitalist need Metro NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+401,Medical Search International,2018-09,Immediate needs - Gastroenterology,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+402,Medical Search International,2018-09,ADULT PSYCHIATRIST – Medical Director – North Carolina – Permanent,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+403,Medical Search International,2018-09,Pediatrics – Coastal NC Partnership – Excellent Benefit / Financial Package,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+404,Medical Search International,2018-09,NC OBGYN,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+405,Enterprise Medical Recruiting,2018-09,Telepsychiatry - Academic Medical Director opening in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+406,"DOCTORS CHOICE PLACEMENT SERVICES, INC.",2018-09,Primary Care Opportunities (2) in Beautiful Northwest North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+407,Enterprise Medical Recruiting,2018-09,Emergency Medicine Physician 30 Minutes West of Fayetteville,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+408,Source Medical,2018-09,OBGYN to join our team in the Blue Ridge Mountains of NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+409,Goldfish Medical Staffing,2018-09,North Carolina Hospitalist Opportunity (9158 LM),0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+410,Enterprise Medical Recruiting,2018-09,Charlotte Area Psychiatry Opening,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+411,Enterprise Medical Recruiting,2018-09,North Carolina Group Adding Ob/Gyn Physician,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+412,"Born & Bicknell, Inc.",2018-09,BC/BE Internal Medicine Physician Job close to Triad area of North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+413,Ascend Medical Staffing,2018-09,"HOSPITALIST SHIFTS AVAILALBE IN NC OCTOBER, NOVEMBER AND DECEMBER",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+414,Apex HealthSync LLC,2018-09,Locum IM Hospitalist Opportunity in NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+415,Enterprise Medical Recruiting,2018-09,Hospitalist Opening - North Carolina Resort Community,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+416,Alpha Medical Group,2018-09,Partnership opportunity for a Gastroenterologist.,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+417,Integrity Healthcare,2018-09,Neurologist Position in Western North Carolina - Partnership Track,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+418,"Consilium Staffing, LLC",2018-09,"Hiring Locum Tenens Psychiatrist, Full-Time—North Carolina",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+419,Enterprise Medical Recruiting,2018-09,"Urgent Care needs in Fayetteville, NC",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+420,NHR,2018-09,METRO NORTH CAROLINA PSYCHIATRTY NEEDS,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+421,"Consilium Staffing, LLC",2018-09,"Hiring Locum Tenens Psychiatrists, Full-Time Inpatient—North Carolina",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+423,Enterprise Medical Recruiting,2018-09,"Hospitalists needed One Hour from Charlotte, NC",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+424,Medical Search International,2018-09,Primary Care Physician,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+425,Medical Search International,2018-09,NON PROCEDURE HOSPITALIST NC- IM/BC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+426,RCM Health Care Services,2018-09,Emergency Medicine Locums Need in the NC Outer Banks,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+427,BAS Healthcare,2018-09,Hospitalist Openings on North Carolina Coastline,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+428,Medical Search International,2018-09,OBGYN - Central North Carolina - Permanent Position,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+429,Source Medical,2018-09,Emergency Medicine - Director Option,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+430,Enterprise Medical Recruiting,2018-09,"Hospitalists - Earn Over $300,000 - 90 minutes from Charlotte",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+431,Medical Search International,2018-09,IP/OP Psychiatry Opportunity in Beautiful Western NC- Permanent,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+432,Medical Search International,2018-09,"Immediate opportunities in Ashoskie, NC- - Expense free- Malpractice & Travel fully covered",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+433,"DOCTORS CHOICE PLACEMENT SERVICES, INC.",2018-09,Emergency Medicine Opportunity in Eastern North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+434,"DOCTORS CHOICE PLACEMENT SERVICES, INC.",2018-09,CRNA Opportunity in Eastern North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+435,Enterprise Medical Recruiting,2018-09,"125 per hour Urgent Care in Greensboro, NC",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+436,All Star Recruiting,2018-09,Exciting New Primary Care position in Coastal North Carolina - No Call.,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+437,Continuum Medical Staffing,2018-09,Pediatrician,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+438,"DOCTORS CHOICE PLACEMENT SERVICES, INC.",2018-09,New: Neurology - Partnership Opportunity in Eastern North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+439,Medicus Healthcare Solutions,2018-09,"Psychiatry Opportunity 1-hour from Charlotte, North Carolina – Lucrative Compensation",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+440,Enterprise Medical Recruiting,2018-09,Internist Needed in Coastal North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+441,"Consilium Staffing, LLC",2018-09,"Hiring OB-GYN Physician ASAP, Part-Time—North Carolina",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+442,Enterprise Medical Recruiting,2018-09,Emergency Medicine Physician 80 Miles E/O Raleigh,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+443,Enterprise Medical Recruiting,2018-09,Pediatric Openings in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+444,The Toberson Group,2018-09,Gastroenterologist,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+445,"Hayman Daugherty Associates, Inc",2018-09,Neurosurgeon Needed in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+446,Echo Locum Tenens,2018-09,New Locum Opportunities in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+447,All Star Recruiting,2018-09,Incredible Outpatient Primary Care opportunity in Eastern North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+448,Integrity Healthcare,2018-09,Gastroenterology Opening on North Carolina Coast,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+449,Medicus Healthcare Solutions,2018-09,"Hospitalist Opportunity Less Than an Hour from Raleigh, North Carolina – No Call Requirements",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+450,"MD Staff Pointe, LLC",2018-09,Hospitalist Needed for Established Practice in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+451,Enterprise Medical Recruiting,2018-09,"Hospitalist Opening- 55 miles North of Wilmington, North Carolina",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+452,"DOCTORS CHOICE PLACEMENT SERVICES, INC.",2018-09,Anesthesiology Opportunity in Eastern North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+453,"iMed Staffing, LLC",2018-09,Psychiatrist for large private Psychiatric group practice - multiple NC locations available,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+454,"iMed Staffing, LLC",2018-09,"Psychiatrist for large psychiatric group practice - Chapel Hill area, NC",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+455,Enterprise Medical Recruiting,2018-09,"Outpatient Internal Medicine position just outside of Asheville, NC",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+456,Enterprise Medical Recruiting,2018-09,"Employed Neurology position just outside of Asheville, NC",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+457,Source Medical,2018-09,Psychiatry - Perfect NC location near major cities and universities,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+458,BAS Healthcare,2018-09,Neurology Group is Growing,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+459,Integrity Healthcare,2018-09,Emergency Medicine Physician Needed - North Carolina - Small Community Hospital - Sign on Bonus,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+460,"Hayman Daugherty Associates, Inc",2018-09,Gastroenterologist Needed in Eastern North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+461,"Hayman Daugherty Associates, Inc",2018-09,EM Medical Director in Eastern North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+462,"Hayman Daugherty Associates, Inc",2018-09,Urologist Needed in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+463,BAS Healthcare,2018-09,Psychiatry Opportunity close to Raleigh,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+464,BAS Healthcare,2018-09,45 miles East of Raleigh NC Adult Inpatient needs,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+465,"Consilium Staffing, LLC",2018-09,"Hiring Part-Time Psychiatrist ASAP, Outpatient—North Carolina",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+466,BAS Healthcare,2018-09,Less than an Hour to Raleigh,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+467,"Consilium Staffing, LLC",2018-09,"Hiring Hospitalist PT, Day/Night Shifts—North Carolina",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+468,All Star Recruiting,2018-09,Hospitalist Locum Need in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+469,Goldfish Medical Staffing,2018-09,North Carolina Metro OP Psychiatry Opportunity (10451 LM),0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+470,"MD Staff Pointe, LLC",2018-09,Hospitalist Needed to Join a facility in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+471,Enterprise Medical Recruiting,2018-09,Internal Medicine - Coastal North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+472,Enterprise Medical Recruiting,2018-09,Emergency Medicine Physician need in Coastal Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+473,"MD Staff Pointe, LLC",2018-09,Locum Anesthesiologist North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+474,All Star Recruiting,2018-09,Gastroenterology position in North Carolina with partnership track,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+475,Enterprise Medical Recruiting,2018-09,"Charlotte, NC Area - Opening for Pediatrician",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+476,All Star Recruiting,2018-09,Inpatient Psychiatrist Needed in Western North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+477,"Born & Bicknell, Inc.",2018-09,Neurology Physician Job in Southeastern North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+478,"Born & Bicknell, Inc.",2018-09,BE/BC Gastroenterology Physician Job In Northeastern Coastal North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+479,Quest Healthcare Solutions,2018-09,Hospitalist - Locum Tenens Need in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+480,Integrity Healthcare,2018-09,Urologist needed in Eastern North CarolinaSIGN ON BONUS,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+481,"Born & Bicknell, Inc.",2018-09,IM Physician job in North Carolina. J1Visa Slots available,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+482,"Atrium Health, formerly Carolinas HealthCare System",2018-09,"Atrium Health - NEUROHOSPITALISTS - Charlotte, NC",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+483,Enterprise Medical Recruiting,2018-09,Charlotte NC Area Group Adding OBGYN Phsyician,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+484,Enterprise Medical Recruiting,2018-09,"Nags Head, NC, live and work where most aspire to spend just 1 or 2 weeks",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+485,LocumTenens.com,2018-09,Urgent Locum Tenens Psychiatry Need in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+486,Source Medical,2018-09,Pediatric need in North Carolina - near metro and beaches,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+487,Enterprise Medical Recruiting,2018-09,"Sleep Neurologist needed in Charlotte, NC",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+488,"iMed Staffing, LLC",2018-09,Psychiatrist for large mental health facility - Wilson area NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+489,"Hayman Daugherty Associates, Inc",2018-09,Hospitalist in Eastern North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+490,Enterprise Medical Recruiting,2018-09,"Outpatient Internal Medicine physician need in Greenville, NC",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+491,"Hayman Daugherty Associates, Inc",2018-09,OBGYN in Eastern North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+492,"Hayman Daugherty Associates, Inc",2018-09,Telepsychiatry in Eastern North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+493,Integrity Locums,2018-09,Locums Hospitalist Available in Eastern North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+494,Enterprise Medical Recruiting,2018-09,Southeast North Carolina Outpatient Internal Medicine Position,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+495,Alliance Recruiting Resources,2018-09,NC HOSPITALIST,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+496,BAS Healthcare,2018-09,All-Outpatient Pediatric in Charlotte North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+497,Enterprise Medical Recruiting,2018-09,"Adding a Outpatient Internists close to Asheville, NC",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+498,Enterprise Medical Recruiting,2018-09,"Adding a Outpatient Internist in Coastal Southeastern, NC",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+499,BAS Healthcare,2018-09,Join Established Pediatric Practice near Raleigh NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+500,Enterprise Medical Recruiting,2018-09,"Hospitalist Opening near Greenville, North Carolina",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+501,Enterprise Medical Recruiting,2018-09,North Carolina Pediatric Opening in Golfing Paradise,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+502,Enterprise Medical Recruiting,2018-09,North Carolina - Adult Psychiatry,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+503,Enterprise Medical Recruiting,2018-09,"Consult Liaison Psychiatrist for Charlotte, NC with Block Scheduling",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+504,Goldfish Medical Staffing,2018-09,North Carolina Pediatric Opportunity (10470 LM),0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+505,"MD Staff Pointe, LLC",2018-09,"Hospitalist Locum Shifts / Coastal, NC",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+506,Enterprise Medical Recruiting,2018-09,"Winston-Salem, NC - Pursue Your Sub-specialty with a Large Health System",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+507,NHR,2018-09,"Hospitalist Physicians needed near Winston Salem, NC",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+508,"MD Staff Pointe, LLC",2018-09,Permanent Emergency Medicine Opportunity in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+509,Enterprise Medical Recruiting,2018-09,Psychiatric Medical Director-North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+510,Integrity Healthcare,2018-09,Med-Peds Physician- SEast North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+511,Weatherby Healthcare,2018-09,Psychiatry in NC - Locums: Psychiatry Physician Opportunity in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+512,Physician Providers Mgmt. Corp.,2018-09,Locum Hospitalist (Nocturnist) needed in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+514,"Hayman Daugherty Associates, Inc",2018-09,"Urology in the Outer Banks, NC",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+515,"Hayman Daugherty Associates, Inc",2018-09,"Hospitalist Position - Inner Banks, NC",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+516,KPS Physician Staffing,2018-09,Night-Shift Hospitalist Needed in Northern North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+517,Quest Healthcare Solutions,2018-09,Hospitalist | Locum Tenens Need in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+518,Tenet Healthcare,2018-09,"Neurohospitalist Needed Near Charlotte, NC (Rock Hill, SC)",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+519,Enterprise Medical Recruiting,2018-09,"Charlotte, NC Area Outpatient Internal Medicine Position",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+520,Alpha Medical Group,2018-09,Community hospital seeks daytime Hospitalist for block schedule.,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+521,Enterprise Medical Recruiting,2018-09,"Statesville, NC Outpatient Internal Medicine Position",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+522,Elevate Healthcare Consultants,2018-09,Hospitalist needed in Coastal North Carolina - interested in picking up shifts? Contact Heather at Elevate,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+523,Enterprise Medical Recruiting,2018-09,"Adding a Outpatient Internist in Winston-Salem, NC",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+524,"Med Career Center, Inc",2018-09,RALEIGH NC Area,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+525,"Med Career Center, Inc",2018-09,"1 hr to BEACH - or to RALEIGH, NC",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+526,Enterprise Medical Recruiting,2018-09,Hospitalist - North Carolina TOP Hospital near Research Triangle,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+527,"iMed Staffing, LLC",2018-09,"Pediatrician Physician Openings near Raleigh, NC",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+528,"Hayman Daugherty Associates, Inc",2018-09,Emergency Medicine in NE North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+530,Medicus Healthcare Solutions,2018-09,Hospitalist Coverage Needed in Eastern North Carolina – No Procedures,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+531,"Necnic Group, LLC",2018-09,Neurohospitalist Opportunity in NNorth Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+532,RCM Health Care Services,2018-09,Gastroenterologist - Locums,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+533,BAS Healthcare,2018-09,Bread and Butter Opportunity Less than an Hour to Charlotte,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+534,Medical Search International,2018-09,"HOSPITALIST  WINE COUNTRY, NC  $50,000.00 SIGN ON BONUS",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+535,Integrity Healthcare,2018-09,Pediatrician needed in Eastern North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+536,MedStaff National Medical Staffing,2018-09,"Hospitalists Wanted, Internists or Family Practitioners - $260k to $315k, block schedule, procedures optional, closed ICU",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+537,Enterprise Medical Recruiting,2018-09,"Emergency Medicine Physician needed in Nags Head, North Carolina",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+538,Quest Healthcare Solutions,2018-09,Hospitalist Locum Tenens Need in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+539,Enterprise Medical Recruiting,2018-09,"FM/IM Physician opening in Boone, NC",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+540,Enterprise Medical Recruiting,2018-09,Sleep Medicine specialist needed in Mount Airy NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+541,Integrity Healthcare,2018-09,Gastroenterology Opportunity in Western North Carolina Mountains,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+542,Enterprise Medical Recruiting,2018-09,"Outpatient IM needs in Charlotte, Durham and Winston-Salem, NC",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+543,Enterprise Medical Recruiting,2018-09,"Greensboro, NC, Seeks Additional Internal Medicine Signing Bonus",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+544,"MD Staff Pointe, LLC",2018-09,Exciting Psychiatric Opportunity in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+545,Medicus Healthcare Solutions,2018-09,Practice Psychiatry Full-Time in North Carolina – Market Competitive Compensation,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+546,Medicus Healthcare Solutions,2018-09,Full-time Hospitalist Opportunity in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+547,Medicus Healthcare Solutions,2018-09,Full-Time OB/GYN Opportunity in North Carolina -Competitive Pay & Benefits,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+548,"Med Career Center, Inc",2018-09,2 Hospitalists needed in NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+549,"MD Staff Pointe, LLC",2018-09,"Emergency Medicine Locums / Coastal, NC",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+550,"Med Career Center, Inc",2018-09,"CHARLOTTE, NC - 1:8 CALL",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+551,Enterprise Medical Recruiting,2018-09,"Hospitalist Opening - 40 minutes from Raleigh, North Carolina",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+552,Medicus Healthcare Solutions,2018-09,Practice Internal Medicine Full-Time in North Carolina – Market Competitive Compensation,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+553,Enterprise Medical Recruiting,2018-09,"Family and Internal Medicine providers needed just South of Wilmington, NC",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+554,Source Medical,2018-09,Pediatrics need near Winston-Salem,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+555,Spectrum Healthcare Resources,2018-09,Emergency Medicine Physician,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+556,Enterprise Medical Recruiting,2018-09,"Charlotte, NC Outpatient Internal Medicine Position",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+557,Enterprise Medical Recruiting,2018-09,"Family and Internal Medicine providers Need South of Charlotte, NC",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+558,Enterprise Medical Recruiting,2018-09,Western North Carolina Outpatient FM/IM Positions,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+559,Enterprise Medical Recruiting,2018-09,GI position in Greenville NC - Partnership Track,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+560,Enterprise Medical Recruiting,2018-09,Psychiatry with the Nation's Leading Telemedicine Company,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+561,"Hayman Daugherty Associates, Inc",2018-09,Adolescent Psychiatry in Eastern North Carolina - Academic Position,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+562,Medicus Healthcare Solutions,2018-09,Adult & Geriatric Psychiatry Opportunity in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+564,Enterprise Medical Recruiting,2018-09,Charlotte NC Neurology position,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+565,Enterprise Medical Recruiting,2018-09,"Outpatient/Urgent Care needs in Roanoke, Va and Greensboro, NC",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+566,Weatherby Healthcare,2018-09,Emergency Medicine in NC - Locums: Emergency Medicine Physician Coverage Needed in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+567,Enterprise Medical Recruiting,2018-09,Primary Care needs in Coastal North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+568,Integrity Healthcare,2018-09,Psychiatrist Opening; Inner Banks North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+569,"Atrium Health, formerly Carolinas HealthCare System",2018-09,"General Pediatricians Needed in the Greater Charlotte, NC area",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+570,Elevate Healthcare Consultants,2018-09,"Locum Adult Psychiatrist needed in hospital setting in Ahoskie, N.C. area - ASAP through recruitment - contact HeatherElevate",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+571,Physician Providers Mgmt. Corp.,2018-09,Gastroenterologist wanted in NC (2 Locations),0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+572,Medicus Healthcare Solutions,2018-09,"Medical Director of Child Psychiatry Opportunity Near Raleigh, North Carolina – Competitive Salary",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+573,Source Medical,2018-09,"Outpatient Neurology Opening near the beach, signing bonus and more",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+574,NHR,2018-09,"Obstetrics & Gynecology physician needed near Winston Salem, NC",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+575,Source Medical,2018-09,"Duplin County, NC/ Psychiatry Opening",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+576,Source Medical,2018-09,Psychiatry - In and Outpatient,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+577,Medicus Healthcare Solutions,2018-09,Community-centric Outpatient Psychiatry Opportunity in North Carolina – Relocation Offered,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+578,Goldfish Medical Staffing,2018-09,Coastal North Carolina Pediatric Opportunity (12163 LH),0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+579,"MD Staff Pointe, LLC",2018-09,"Inpatient Locum Neurology, NC",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+580,Enterprise Medical Recruiting,2018-09,Adding four BC/BE Internal Medicine Physicians to a new practice,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+581,NHR,2018-09,Hospitalist - Beautiful NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+582,All Star Recruiting,2018-09,Inpatient Locum Neurologist Needed in Eastern North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+583,NHR,2018-09,Metro NC Hospitalist position,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+584,NHR,2018-09,"Outpatient Internal Medicine Physician needed in Western, NC",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+585,Medicus Healthcare Solutions,2018-09,Adult Psychiatry Opportunity in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+586,"All Medical Personnel, LLC",2018-09,Psychiatry-Adult Physician,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+587,Enterprise Medical Recruiting,2018-09,"Urgent Care needs in Beautiful, Coastal Wilmington, NC",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+588,Elevate Healthcare Consultants,2018-09,Telepsychiatrist needed for North Carolina client - contact Heather  Elevate,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+589,Source Medical,2018-09,Emergency Medicine Opening - Top Coastal Northern Carolina Location,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+590,Source Medical,2018-09,Emergency Medicine Opening - Hospital based employed group,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+591,Source Medical,2018-09,GI Opening in Metro North Carolina with partnership,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+592,Ascend Medical Staffing,2018-09,JULY Start - Locum Tenens Telepsychiatry Need for BC Adult Psychiatrist,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+593,Source Medical,2018-09,Hospitalist Opening near NC Coast/VA State line,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+594,Weatherby Healthcare,2018-09,Emergency Medicine in NC - Locums: Emergency Medicine Physician Job Opportunity in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+595,Alliance Recruiting Resources,2018-09,Famous NC region looking for GI to join Practice,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+596,All Star Recruiting,2018-09,Immediate need for a Peds/Genetics Physician in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+597,Enterprise Medical Recruiting,2018-09,"Emergency Medicine Physician needed in Fayetteville, NC - Sign On Bonus",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+598,Integrity Healthcare,2018-09,Emergency Medicine Physician Opening; Coastal North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+600,Medical Search International,2018-09,Locums/Pediatrician/Northern NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+601,Enterprise Medical Recruiting,2018-09,Outpatient Pediatric Opportunity along North Carolina Coast,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+602,Integrity Locums,2018-09,Locums Nocturnist Needed in Western North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+603,Enterprise Medical Recruiting,2018-09,Outpatient only Neurologist needed in Charlotte,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+604,Weatherby Healthcare,2018-09,Gastroenterology in NC - Locums: Gastroenterologist Wanted in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+605,BAS Healthcare,2018-09,Base Salary 300K  1 hour Charlotte Lakeside Community Academics New Grads and H1b,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+606,Quest Healthcare Solutions,2018-09,Hospitalist - Locums Opportunity in NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+608,LocumTenens.com,2018-09,Locum Tenens Internal Medicine Physicians Needed in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+609,NHR,2018-09,Urgent Care Physician - Beautiful NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+610,NHR,2018-09,"STATE OF THE ART MEDICAL CENTER IN WESTERN, NC SEEKS FP",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+611,NHR,2018-09,Ob/Gyn - Beautiful NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+612,NHR,2018-09,"Traditional and NeuroHospitalist needs Charlotte, NC",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+613,BAS Healthcare,2018-09,Hospitalist opening minutes from Raleigh NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+614,TeamHealth,2018-09,EM Travel Physician Special Ops,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+615,Spectrum Healthcare Resources,2018-09,Psychiatrist,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+616,US Army 1st Medical Recruiting Battalion,2018-09,Army Reserve Psychiatry,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+617,All Star Recruiting,2018-09,Great New Internal Medicine opportunity in Northwest North Carolina.,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+618,Pacific Companies,2018-09,Emergency Medicine – North Carolina – Not-for-profit,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+619,Quest Healthcare Solutions,2018-09,Hospitalist | Locum Tenens Opportunity in NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+620,Medical Search International,2018-09,Urology – Western North Carolina - Permanent,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+621,All Star Recruiting,2018-09,Great Pediatric Emergency Medicine position in breathtaking North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+622,Enterprise Medical Recruiting,2018-09,Seeking Nocturnist in Beautiful North Carolina Location,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+623,Pacific Companies,2018-09,GI Opportunity – North Carolina – No ERCP Required,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+624,Enterprise Medical Recruiting,2018-09,Hospitalist Medical Director - Raleigh Based System,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+625,Medical Search International,2018-09,ADULT PSYCHIATRIST – North Carolina – Permanent,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+626,Medical Search International,2018-09,Nocturnist - Greater Charlotte area- Permanent Position.,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+627,Integrity Locums,2018-09,North Carolina Psychiatry Locums Opening,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+628,Enterprise Medical Recruiting,2018-09,Psychiatric Medical Director - Southeast North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+629,Integrity Healthcare,2018-09,"Outpatient Internal Medicine Opening; Inner Banks, North Carolina",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+630,All Star Recruiting,2018-09,Urology Need in Southeastern North Carolina - Robotics Available,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+632,Austin Major Group,2018-09,Psychiatry - 7on / 7off Assignment - North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+633,All Star Recruiting,2018-09,New and Immediate need for an OBGYN near Winston-Salem,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+634,Medicus Healthcare Solutions,2018-09,"7on, 7off Adult Psychiatry Opportunity One Hour From Charlotte, NC",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+635,All Star Recruiting,2018-09,Gynecologic Oncologist Opportunity in Eastern North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+636,"MD Staff Pointe, LLC",2018-09,Part Time Locum GI Coverage - NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+637,All Star Recruiting,2018-09,Fantastic New Family Medicine Position w/OB in Northwest North Carolina.,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+638,NHR,2018-09,Neurology - Beautiful NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+639,NHR,2018-09,Primary Care need in Coastal NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+640,NHR,2018-09,FANTASTIC NORTH CAROLINA NEUROLOGY OPPORTUNITY,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+641,NHR,2018-09,Southeast North Carolina Hospitalist Need,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+642,NHR,2018-09,Mountains of NC - Hospitalist needs - $30k sign on bonus,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+643,NHR,2018-09,Pediatrician - Beautiful NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+644,All Star Recruiting,2018-09,Peds Clinic and Call Locums Need in NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+645,NHR,2018-09,"Family Practice Physician wanted Western, NC",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+646,LocumTenens.com,2018-09,Adult Psychiatrist Needed in North Carolina for a Locum to Permanent Opportunity,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+647,LocumTenens.com,2018-09,Locum Tenens Urology Position in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+648,LocumTenens.com,2018-09,Locum Tenens ACT Team Psychiatry Position in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+649,All Star Recruiting,2018-09,Great New Primary Care opportunity in Southern North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+650,Source Medical,2018-09,Western North Carolina Urology Opportunity,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+651,All Star Recruiting,2018-09,Hospitalist Locum need near the Coast of North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+653,Weatherby Healthcare,2018-09,Pediatrics in NC - Locums: A Facility in North Carolina Requires a Locum Tenens Pediatrician,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+654,All Star Recruiting,2018-09,"Internal Medicine Physician needed just outside of Winston-Salem, NC",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+655,M/M Recruitment Group,2018-09,Psychiatrist Adult Opportunity,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+656,All Star Recruiting,2018-09,Nocturnist Locum opportunity in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+657,All Star Recruiting,2018-09,Primary Care - 60 mins West of Winston-Salem North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+658,BAS Healthcare,2018-09,Expanding Health Care System in Eastern North Carolina City,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+659,Enterprise Medical Recruiting,2018-09,Psychiatry in Southeast North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+660,Weatherby Healthcare,2018-09,Psychiatry in NC - Locums: Psychiatrist Locums Opportunity in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+661,All Star Recruiting,2018-09,Full-time Pulmonary/Critical Care opportunity available in Eastern North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+662,Medicus Healthcare Solutions,2018-09,Adult Psychiatry Coverage Needed in the Raleigh-Durham Area of North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+663,BAS Healthcare,2018-09,Director Position with Access to Charlotte,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+664,BAS Healthcare,2018-09,Neurohospitalist in NC: Academic,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+665,All Star Recruiting,2018-09,Seeking a Neurologist with Experience and training in Neuromuscular disorders and Electromyography to join a growing Neurology d,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+667,BAS Healthcare,2018-09,Hospitalist Opportunity Outside of Raleigh,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+668,All Star Recruiting,2018-09,Outpatient only Neurology Practice in Eastern North Carolina ,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+669,All Star Recruiting,2018-09,Outpatient only Gastroenterologist opportunity in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+670,Source Medical,2018-09,"Dare County, NC/ Urology Opening",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+671,Ascend Medical Staffing,2018-09,ER Physician,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+672,NHR,2018-09,Outpatient IM Need,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+673,All Star Recruiting,2018-09,Incredible Nocturnist Opportunity in Scenic North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+674,LocumTenens.com,2018-09,Locum Tenens Adult Psychiatrist Needed in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+675,NHR,2018-09,Psychiatry - Beautiful NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+676,NHR,2018-09,Internal Medicine - Beautiful NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+677,NHR,2018-09,Urologist - Beautiful NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+678,"Born & Bicknell, Inc.",2018-09,OB/GYN job in Eastern NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+679,"Born & Bicknell, Inc.",2018-09,Internal Medicine physician job near a metro city in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+680,Goldfish Medical Staffing,2018-09,North Carolina OBGYN –Near Metro (12354 LH),0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+681,"Born & Bicknell, Inc.",2018-09,Pediatrician job in North Carolina J1 Visa sponsorship available,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+682,Weatherby Healthcare,2018-09,Emergency Medicine in NC - Locums: A North Carolina Hospital Seeks Emergency Medicine Physician,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+683,Alliance Recruiting Resources,2018-09,OBGYN- Beautiful NC- Be part of the Future,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+684,BAS Healthcare,2018-09,ED Psychiatrist Needed in Major NC City,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+685,"Born & Bicknell, Inc.",2018-09,Internal Medicine Physician Job in Scenic North Carolina Triad area,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+686,"Born & Bicknell, Inc.",2018-09,Gastroenterology Physician Job in Eastern North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+687,"Born & Bicknell, Inc.",2018-09,Internal Medicine Physician Job in Western North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+688,Source Medical,2018-09,Neurology need in NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+689,TinkBird Healthcare Staffing / Locum Tenens & Perm,2018-09,"MD/DO - OB/GYN - Lake Gaston, NC area - Perm",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+690,BAS Healthcare,2018-09,Family Medicine With Easy Access to Charlotte and Asheville NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+691,BAS Healthcare,2018-09,Minutes to Winston Salem Excellent Pay,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+692,BAS Healthcare,2018-09,Outpatient Pediatrics in Wilmington NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+693,Quest Healthcare Solutions,2018-09,Hospitalist | Locum Tenens Opportunity in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+694,TinkBird Healthcare Staffing / Locum Tenens & Perm,2018-09,"MD/DO Needed - Geriatric Hospitalist - Central, NC area - Permanent",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+695,All Star Recruiting,2018-09,Excellent Outpatient Family Medicine opportunity Coastal North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+696,Medicus Healthcare Solutions,2018-09,"Emergency Medicine Opportunity an Hour from Raleigh, NC",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+697,BAS Healthcare,2018-09,Make $220 000 30 Minutes Outside of Raleigh NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+698,"iMed Staffing, LLC",2018-09,"Pediatric Physician Opportunity near Raleigh, NC",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+699,TinkBird Healthcare Staffing / Locum Tenens & Perm,2018-09,Emergency Medicine NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+700,All Star Recruiting,2018-09,North Carolina Client seeking Gastroenterologist Locums,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+701,BAS Healthcare,2018-09,Pediatric opening 30 minutes from Raleigh NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+702,RCM Health Care Services,2018-09,Nocturnist Needed in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+703,Physician Providers Mgmt. Corp.,2018-09,Hospitialist Position Available in NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+704,All Star Recruiting,2018-09,Outpatient Neurology opportunity in Northwestern North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+705,Source Medical,2018-09,Develop Neurology Program in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+706,BAS Healthcare,2018-09,Easy Access to Raleigh,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+707,BAS Healthcare,2018-09,Outpatient with No Call in CHARLOTTE,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+708,All Star Recruiting,2018-09,Excellent Nocturnist Position in The Heart of Eastern North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+709,All Star Recruiting,2018-09,Urologist Eastern North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+710,"Born & Bicknell, Inc.",2018-09,Urologist Job in Eastern North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+711,"Born & Bicknell, Inc.",2018-09,Internal Medicine Physician Job in Scenic North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+712,"Born & Bicknell, Inc.",2018-09,Pediatrician needed in Southeastern North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+713,"iMed Staffing, LLC",2018-09,Urology Physician Opportunity in Western North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+714,"iMed Staffing, LLC",2018-09,Emergency Medicine Physician Needed in NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+715,All Star Recruiting,2018-09,Emergency Medicine Physician Needed For a Waterfront Community in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+716,All Star Recruiting,2018-09,New Gynecology Oncology Position in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+717,"Med Career Center, Inc",2018-09,"G.I. needed - near Raleigh, NC",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+718,"Med Career Center, Inc",2018-09,Coastal Carolina/ Beach Side Urologist Needed,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+719,Floyd Lee Locums,2018-09,Pyschiatrists Needed in the Carolinas - $200/hr,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+720,"Med Career Center, Inc",2018-09,Coastal Outpatient Practice - LIVE where you PLAY,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+721,"Med Career Center, Inc",2018-09,Central NC Hospiitalist Position,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+722,"Med Career Center, Inc",2018-09,Hospitalist gig near Charlotte,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+723,"Med Career Center, Inc",2018-09,Coastal Carolinas,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+724,"All Medical Personnel, LLC",2018-09,Gastroenterology Physician,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+725,Medicus Healthcare Solutions,2018-09,"Outpatient Psychiatry Opportunity Near Raleigh, North Carolina",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+726,"Med Career Center, Inc",2018-09,OBGYN - coastal NC - 1:7 Call,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+727,"Med Career Center, Inc",2018-09,Urgent Care Physician Needed,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+728,"iMed Staffing, LLC",2018-09,"OB/Gyn Physician Opportunity Near Raleigh, NC",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+729,Echo Locum Tenens,2018-09,Licensed in North Carolina?,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+730,Weatherby Healthcare,2018-09,Psychiatry in NC - Locums: Locum Tenens Opportunity in North Carolina for Psychiatrist,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+731,Harris Medical Associates,2018-09,Locums Psychiatrist 100% inpatient Unit highly respected system in Western NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+732,Medicus Healthcare Solutions,2018-09,"Pediatric Opportunity One Hour From Raleigh-Durham, North Carolina – Limited Call Requirements",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+733,Enterprise Medical Recruiting,2018-09,"OB/GYN Opportunity near Charlotte, NC",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+734,Quest Healthcare Solutions,2018-09,ANESTHESIOLOGIST | Locum Tenens Job in NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+735,All Star Recruiting,2018-09,Emergency Medicine opportunity in Eastern North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+736,BAS Healthcare,2018-09,Outpatient with No Call and No Weekends,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+737,All Star Recruiting,2018-09,Child & Adolescent Psychiatrist opportunity to serve as full-time Assistant or Associate Professor in Eastern North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+738,All Star Recruiting,2018-09,Telepsychiatrist needed in Eastern North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+739,BAS Healthcare,2018-09,Hospitalist Opportunity Outside of Wilmington,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+740,BAS Healthcare,2018-09,Neurohospitalist Position with Block Schedule,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+741,"Med Career Center, Inc",2018-09,"IM/FP job in NC, near Charlotte & Winston-Salem",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+742,BAS Healthcare,2018-09,Live in Charlotte Outpatient Only,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+743,"MD Staff Pointe, LLC",2018-09,Gastroenterology Locums - Eastern NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+744,MedSource Consultants,2018-09,Hospitalist,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+745,The Medicus Firm,2018-09,Outpatient GI No Hospital Call,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+746,BAS Healthcare,2018-09,OP Commutable to Raleigh,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+747,Ascend Medical Staffing,2018-09,Gastroenterologist - North Carolina - 3 days a week,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+748,LocumTenens.com,2018-09,Gastroenterologist Needed in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+749,BAS Healthcare,2018-09,Lucrative Psychiatry Opportunity in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+750,"Med Career Center, Inc",2018-09,New ObGyn opportunity near Charlotte,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+751,"Med Career Center, Inc",2018-09,NC Mountains Hospitalist Opportunity,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+752,"Med Career Center, Inc",2018-09,"Charlotte, NC area",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+753,"Born & Bicknell, Inc.",2018-09,Internal Medicine Physician Jobs in North Carolina Mountain Town,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+754,"Med Career Center, Inc",2018-09,"Family Practice/OB - NC, near Raleigh",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+755,"Med Career Center, Inc",2018-09,Coastal Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+756,"Med Career Center, Inc",2018-09,Need GI to join estab solo GI,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+757,BAS Healthcare,2018-09,Pain Position in North Carolina's Capital City,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+758,"iMed Staffing, LLC",2018-09,Medical Director Needed for the Emergency Department in NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+759,"iMed Staffing, LLC",2018-09,"Gastroenterology Opening near Raleigh/Durham, NC",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+760,"Born & Bicknell, Inc.",2018-09,"Gastroenterologist needed near WinstonSalem, NC Visa candidates welcome",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+761,BAS Healthcare,2018-09,OBGYN opening located 30 minutes from RALEIGH NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+762,Weatherby Healthcare,2018-09,Hospitalist in NC - Locums: A Locums Job Opportunity for a Hospitalist Physician Available in NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+763,TinkBird Healthcare Staffing / Locum Tenens & Perm,2018-09,MD/DO Needed - Psychiatry - Southeastern NC - Permanent,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+764,MedStaff National Medical Staffing,2018-09,Locum Tenens OBGYN Full Time - North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+765,Medicus Healthcare Solutions,2018-09,"High Paying Hospitalist Opportunity an Hour South of Raleigh, NC",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+766,Source Medical,2018-09,"Psychiatry, Private or hospital-employed, M-F 8-5",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+767,TinkBird Healthcare Staffing / Locum Tenens & Perm,2018-09,"MD/DO Needed - Urologist - Fayetteville, NC area - Permanent",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+768,Quest Healthcare Solutions,2018-09,GASTROENTEROLOGY| Locum Tenens Needed in Eastern North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+769,"Med Career Center, Inc",2018-09,Maternal Fetal Medicine in NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+770,BAS Healthcare,2018-09,Excellent OBGYN opening under an hour from Raleigh NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+771,"Born & Bicknell, Inc.",2018-09,Psychiatrist Job in Eastern North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+772,Locums Unlimited,2018-09,Internal Medicine locum tenen needed for an assignment in North Carolina to begin in January 2019,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+773,KPS Physician Staffing,2018-09,Democratic ED Group in North Carolina Needs ABEM/AOBEM Physician,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+774,Medicus Healthcare Solutions,2018-09,North Carolina Adult Psychiatry Coverage – No H&P’s,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+775,The Delta Companies,2018-09,Outpatient Only - Primary Care - Greensboro NC - 38041,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+776,"MD Staff Pointe, LLC",2018-09,"Hospitalist Locums / Coastal, NC",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+777,"Med Career Center, Inc",2018-09,Gastroenterology Position in Beautiful Eastern NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+778,"Med Career Center, Inc",2018-09,NC Metro Area,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+779,"Med Career Center, Inc",2018-09,Central Carolina - Beautiful Community,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+780,Harris Medical Associates,2018-09,"Locums Emergency Medicine MD/DO (FM/EM) needed near Hertford County, NC",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+781,Enterprise Medical Recruiting,2018-09,Inpatient Emergency Psychiatry in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+782,"Med Career Center, Inc",2018-09,Needing a Psychatrist in NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+783,"Born & Bicknell, Inc.",2018-09,Internal MedicineHospitalist needed in scenic North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+784,"Born & Bicknell, Inc.",2018-09,Neurology job in scenic North Carolina No visa sponsorship.,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+785,"Med Career Center, Inc",2018-09,"Neurology opening near Charlotte, NC",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+786,"Hayman Daugherty Associates, Inc",2018-09,Hospitalist Medical Director in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+787,BAS Healthcare,2018-09,OB/GYN With Access To the NC Mountains or the Coast,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+788,BAS Healthcare,2018-09,Asheville NC OBGYN Great Work/Life Balance,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+789,Enterprise Medical Recruiting,2018-09,Chief Hospitalist Opening - Coastal North Carolina Living,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+790,TinkBird Healthcare Staffing / Locum Tenens & Perm,2018-09,MD/DO Needed - Gastroenterology - Eastern NC area - Locums,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+791,All Star Recruiting,2018-09,Excellent Hospitalist Opportunity in Northeast North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+792,Honor medical Staffing,2018-09,Internal Medicine Physician Needed in Coastal North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+793,Goldfish Medical Staffing,2018-09,NC Hospitalist - 35 Miles from Winston-Salem - Enjoy Great Work/Life Balance (13519 LH),0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+794,"Med Career Center, Inc",2018-09,Urgent Care in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+795,Weatherby Healthcare,2018-09,Hospitalist in NC - Locums: A Facility in North Carolina Needs a Temporary Hospitalist,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+796,TinkBird Healthcare Staffing / Locum Tenens & Perm,2018-09,"MD/DO Needed - Hospitalist - Fayetteville, NC area - Permanent",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+797,Locums Unlimited,2018-09,Gastroenterologist needed for locum assignment in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+798,Strelcheck & Associates,2018-09,A Must See Psychiatrist Opportunity,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+799,Enterprise Medical Recruiting,2018-09,Outpatient Beach front Neurology position in NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+800,Jackson & Coker,2018-09,Telepsychiatry Locums Job in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+801,Enterprise Medical Recruiting,2018-09,"Internal Medicine need in Charlotte, NC",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+803,Jackson & Coker,2018-09,Psychiatry Locums Job - 7 On 7 Off - North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+804,"iMed Staffing, LLC",2018-09,Hospital Day Shift Opportunity in NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+805,Ascend Medical Staffing,2018-09,North Carolina Nocturnist Opportunity,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+806,Medicus Healthcare Solutions,2018-09,"Hospitalist Needed in the Asheville, North Carolina Area – No Procedures or Codes",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+807,Source Medical,2018-09,"Emergency Medicine, Full or Part-Time positions available",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+808,The Delta Companies,2018-09,North Carolina - Gastroenterology - 115685,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+809,"Med Career Center, Inc",2018-09,Hosp employed OB - NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+810,Weatherby Healthcare,2018-09,Psychiatry in NC - Locums: Psychiatrist is Required for Temporary Assistance in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+811,The Delta Companies,2018-09,North Carolina - Pediatrics Opportunity - 115684,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+812,The Delta Companies,2018-09,Emergency Medicine ( EM ) - Locum Tenens - NC - 129512,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+813,Integrity Locums,2018-09,Locum Internal Medicine PhysicianNeed in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+814,BAS Healthcare,2018-09,Pediatrician for NC Academic Facility,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+815,"iMed Staffing, LLC",2018-09,"Urologist Physician opening near Asheville, NC",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+816,"Med Career Center, Inc",2018-09,Neurology Opportunity Available,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+817,"Med Career Center, Inc",2018-09,Gastroenterologist near Charlotte NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+818,"Med Career Center, Inc",2018-09,OBGYN near Raleigh,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+819,"Med Career Center, Inc",2018-09,Psychatrist needed in NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+820,"Med Career Center, Inc",2018-09,Neurologist needed in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+821,"Med Career Center, Inc",2018-09,Neurologist needed in Coastal NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+822,"Med Career Center, Inc",2018-09,OBGYN needed in NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+823,Weatherby Healthcare,2018-09,Neurology in NC - Locums: NC Medical Facility Needs Locum Tenens Neurologist,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+826,MedStaff National Medical Staffing,2018-09,Locum Tenens Internal Medicine or Family Medicine in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+827,"Med Career Center, Inc",2018-09,Hospitalist Physician in NC wanted,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+828,Ascend Medical Staffing,2018-09,Emergency Medicine Opportunity in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+829,Spectrum Healthcare Resources,2018-09,Pediatrician,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+830,Fusion HealthCare Staffing,2018-09,Urology Locums work in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+831,LocumTenens.com,2018-09,Locum Tenens Psychiatry Coverage Needed in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+832,"iMed Staffing, LLC",2018-09,Internal Medicine Opportunity near Research Triangle in NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+833,Alliance Recruiting Resources,2018-09,7 on 7 off Locums Psychiatrist Opening in North Carolina (No Call),0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+834,Pacific Companies,2018-09,Hospitalist Locum Tenens in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+835,All Star Recruiting,2018-09,Emergency Room Locums Needed in NE North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+836,Medicus Healthcare Solutions,2018-09,Hospitalist Opportunity in Coastal North Carolina – Profit Sharing Offered,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+837,Medicus Healthcare Solutions,2018-09,"Lucrative Hospitalist Opportunity – Only One Hour from Charlotte, North Carolina",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+838,Weatherby Healthcare,2018-09,Obstetrics and Gynecology in NC - Locums: An OB/GYN is Required for Temporary Help in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+839,Weatherby Healthcare,2018-09,Neurology in NC - Locums: Temporary Neurologist Opening in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+840,Weatherby Healthcare,2018-09,Emergency Medicine in NC - Locums: North Carolina Medical Facility Seeks Emergency Medicine Physician,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+841,M/M Recruitment Group,2018-09,Ob/Gyn Opportunity,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+842,All Star Recruiting,2018-09,Anesthesiologist needed in North Carolina - 2 weeks on 2 weeks off,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+843,All Star Recruiting,2018-09,Emergency Medicine Locum Opportunity In North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+844,M/M Recruitment Group,2018-09,Psychiatrist - Mental Health,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+845,BAS Healthcare,2018-09,Great Paying Internist Opportunity Outside Charlotte,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+846,Jackson & Coker,2018-09,Emergency Medicine Locums Job in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+847,Enterprise Medical Recruiting,2018-09,Psychiatry in North Carolina's Inner Banks Region,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+848,Goldfish Medical Staffing,2018-09,Outpatient Headache Neurology Near Metro North Carolina (12847 LH),0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+849,Enterprise Medical Recruiting,2018-09,Coastal North Carolina - Hybrid inpatient Practice,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+850,TinkBird Healthcare Staffing / Locum Tenens & Perm,2018-09,MD/DO - Pediatrics - Multiple locations in NC - Permanent,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+851,Jackson & Coker,2018-09,Psychiatry Locums Job in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+852,Integrity Locums,2018-09,Locums Hospitalist Position Coastal North Carolina-Days and nights available,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+853,The Delta Companies,2018-09,Live on the North Carolina Coast - Neurology - 127879,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+854,TeamHealth,2018-09,Post-Acute Physician,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+855,Enterprise Medical Recruiting,2018-09,Outpatient Adult Psychiatry just an hour from Raleigh,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+856,All Star Recruiting,2018-09,Internal Medicine Opportunity In Eastern North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+857,All Star Recruiting,2018-09,OBGYN Physician,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+858,Integrity Locums,2018-09,North Carolina Gastroenterologist Locums Opening,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+859,Medicus Healthcare Solutions,2018-09,North Carolina Adult Inpatient Psychiatry Opportunity,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+860,"MD Staff Pointe, LLC",2018-09,Locum Emergency Medicine Needed in NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+861,M/M Recruitment Group,2018-09,Psychiatrist Opportunity - emergency experience,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+862,M/M Recruitment Group,2018-09,Neurologist Opportunity,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+863,LocumTenens.com,2018-09,Ongoing Locum Tenens Emergency Medicine Coverage Needed in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+864,LocumTenens.com,2018-09,Anesthesiologist Needed for a Locum Tenens Opportunity in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+865,Enterprise Medical Recruiting,2018-09,"Outpatient IM need in Statesville, NC",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+866,Integrity Locums,2018-09,Locum Stroke Neurology Need in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+867,All Star Recruiting,2018-09,Hospitalist opening in the Winston-Salem area,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+868,"Interim Physicians, LLC",2018-09,Locum Tenens Telepsychiatrist Position in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+869,Medical Search International,2018-09,Urologist,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+870,Weatherby Healthcare,2018-09,Hospitalist in NC - Locums: Immediate Hospitalist Locums Position in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+871,Medicus Healthcare Solutions,2018-09,"OB/GYN Opportunity Available Near Raleigh, North Carolina – Partnership Track",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+872,All Star Recruiting,2018-09,Lucrative urgent Care physician needed in the heart of North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+873,Source Medical,2018-09,Academic OBGYN Opening in North Carolina - Experience Required,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+874,Medicus Healthcare Solutions,2018-09,"Hospitalist Needed for LTAC Facilities Outside of Winston-Salem, NC",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+875,Goldfish Medical Staffing,2018-09,Anesthesiology Locum Tenens Coverage Needed in NE North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+877,Continuum Medical Staffing,2018-09,Anesthesiology- Locums,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+878,"MD Staff Pointe, LLC",2018-09,Locum Anesthesiology Coverage in NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+879,Integrity Locums,2018-09,Locum Emergency Medicine Physician Need in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+880,Source Medical,2018-09,Northeastern North Carolina / Internal Medicine / FQHC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+881,Weatherby Healthcare,2018-09,Psychiatry in NC - Locums: Immediate Psychiatrist Opportunity in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+882,"All Medical Personnel, LLC",2018-09,Internal Medicine Doctor (O/P),0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+883,Goldfish Medical Staffing,2018-09,Psychiatry Medical Director in North Carolina (12305 LH),0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+884,BAS Healthcare,2018-09,Outpatient Only and No Call In Charlotte Suburbs,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+885,Onyx M.D.,2018-09,Board Certified Gastroenterologist Needed in North Carolina - 3 Days Per Week,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+886,LocumTenens.com,2018-09,Locum Tenens OB/GYN Coverage Needed in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+887,BAS Healthcare,2018-09,Employed OBGYN Generalist 1 hour Charlotte Lake Side Communities,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+888,All Star Recruiting,2018-09,Emergency Medicine Trained Physician opportunity in the outer banks of North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+889,Locums Unlimited,2018-09,"Emergency Medicine locum needed in eastern, North Carolina",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+890,All Star Recruiting,2018-09,Locum Tenens Emergency Room,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+891,All Star Recruiting,2018-09,Emergency Medicine Locum in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+892,"All HealthCare Staffing, LLC",2018-09,NORTH CAROLINA - GERIATRIC HOSPITALIST - CONSISTENT M-F 8A-5P SCHEDULE,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+894,All Star Recruiting,2018-09,Excellent Hospitalist Position in The Heart of Eastern North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+895,"MD Staff Pointe, LLC",2018-09,Locum Neurologist Needed in NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+896,LocumTenens.com,2018-09,Locum Tenens Adult ACTT Psychiatry Position in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+897,Medicus Healthcare Solutions,2018-09,"Lead a Hospitalist Team Less Than an Hour From Raleigh, NC",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+898,"All Medical Personnel, LLC",2018-09,Emergency Medicine Physician,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+900,All Star Recruiting,2018-09,Primary Care Physician,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+901,TinkBird Healthcare Staffing / Locum Tenens & Perm,2018-09,"MD/DO Needed - Pediatrician - Rocky Mount, NC area - Permanent",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+902,Elevate Healthcare Consultants,2018-09,Part-time Outpatient GI Locums needed in Eastern NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+903,BAS Healthcare,2018-09,Hospitalist Openings Close To Raleigh NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+904,All Star Recruiting,2018-09,Hospitalist Position Open in Eastern North Carolina VISA SPONSORSHIP,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+906,Medicus Healthcare Solutions,2018-09,"Psychiatrist Needed in Charlotte, North Carolina",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+907,Enterprise Medical Recruiting,2018-09,Academic Psychiatry in Eastern North Carolina - One Hour from the Ocean,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+908,"All Medical Personnel, LLC",2018-09,Psychiatry Physician,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+909,Medicus Healthcare Solutions,2018-09,Medical Director Opportunity for NC Hospital Medicine Program,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+910,Medicus Healthcare Solutions,2018-09,Neurology Coverage Needed - North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+911,Weatherby Healthcare,2018-09,Psychiatry in NC - Locums: Locums Psychiatrist is Needed in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+912,All Star Recruiting,2018-09,Hospitalist locum in NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+915,All Star Recruiting,2018-09,Pediatrician,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+917,Enterprise Medical Recruiting,2018-09,Urologist Needed in Central North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+918,Quest Healthcare Solutions,2018-09,Outpatient Psychiatry | Locum Tenens Needed in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+919,Medicus Healthcare Solutions,2018-09,"Emergency Medicine Opportunity with Established Group One Hour South of Raleigh, NC",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+920,DirectShifts,2018-09,Gastroenterologists needed in Coastal North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+921,All Star Recruiting,2018-09,Neurology Locums Opportunity in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+922,All Star Recruiting,2018-09,Hospitalist Needed in NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+924,Goldfish Medical Staffing,2018-09,Coastal North Carolina GI Opportunity (13219 LH),0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+925,Weatherby Healthcare,2018-09,Neurology in NC - Locums: Locum Tenens Opportunity in North Carolina for Neurologist with Permanent Placement Option,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+926,All Star Recruiting,2018-09,FT and PT opportunities available for Emergency Medicine Physician or Family Medicine Physician with ED experience outside of Ro,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+927,Goldfish Medical Staffing,2018-09,North Carolina Hospitalist Opportunity (13454 LH),0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+929,Enterprise Medical Recruiting,2018-09,Telephysiciatry for Academic Setting in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+930,Enterprise Medical Recruiting,2018-09,Eastern NC Group Adding OBGYN,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+931,Weatherby Healthcare,2018-09,Pediatrics in NC - Locums: A Facility in North Carolina is Looking for a Locum Tenens Pediatrician,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+932,All Star Recruiting,2018-09,Internal Medicine Physician Needed in North Eastern North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+933,"iMed Staffing, LLC",2018-09,"Psychiatrist for large psychiatric group practice - Raleigh Durham area, NC",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+934,"Med Career Center, Inc",2018-09,Obgyn job in beautiful NC 1:4 Call,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+935,Continuum Medical Staffing,2018-09,Gastroenterolgist,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+936,"Med Career Center, Inc",2018-09,Wanting Urologist needed in NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+937,"Med Career Center, Inc",2018-09,Academic Neurologist Sought,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+938,"Med Career Center, Inc",2018-09,Immediate General Psychiatry opening in NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+939,"Med Career Center, Inc",2018-09,Neurologist - Primary Stroke Center in NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+940,"Med Career Center, Inc",2018-09,"EM needed in NC, Total Comp value  $250/hr",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+941,"Med Career Center, Inc",2018-09,NW NC Seeking IM physicians in beautiful town,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+942,"Med Career Center, Inc",2018-09,Urologist needed in NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+943,"Med Career Center, Inc",2018-09,2 Psychiatrists needed in Central North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+944,"Med Career Center, Inc",2018-09,OBGYN for western NC in 2018,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+945,"Med Career Center, Inc",2018-09,Charlotte Area,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+946,Goldfish Medical Staffing,2018-09,Winston-Salem Area Uro/Gyn (13385 LH),0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+947,BAS Healthcare,2018-09,OBGYN Near NC Research Triangle,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+948,LocumTenens.com,2018-09,Locum Tenens Psychiatrist Needed in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+949,All Star Recruiting,2018-09,Urologist Locum,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+950,TinkBird Healthcare Staffing / Locum Tenens & Perm,2018-09,MD/DO Needed - Emergency Medicine - Eastern NC area - Sporadic Locum,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+951,LocumTenens.com,2018-09,Locum Tenens Emergency Medicine Coverage Needed in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+952,Elevate Healthcare Consultants,2018-09,Southern Inner Banks NC EM Locums Need,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+953,BAS Healthcare,2018-09,Internal Medicine in Winston Salem High Point and Greensboro NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+954,BAS Healthcare,2018-09,Make Over $400 000 in NC's Busiest ED,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+955,BAS Healthcare,2018-09,North Carolina VA Searches for Psychiatry Coverage,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+956,TinkBird Healthcare Staffing / Locum Tenens & Perm,2018-09,"MD/DO Needed - Internal Medicine - Eastern, NC area - Permanent",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+957,TinkBird Healthcare Staffing / Locum Tenens & Perm,2018-09,"MD/DO Needed - Emergency Medicine - Fayetteville, NC area - Permanent",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+958,Adaptive Medical Partners,2018-09,"$290,000 Salary - North Carolina Outpatient Opportunity",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+960,TinkBird Healthcare Staffing / Locum Tenens & Perm,2018-09,"MD/DO Needed - Emergency Medicine - <1 hour from Fayetteville, NC - Locum",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+961,Jackson & Coker,2018-09,Emergency Medicine Locums Job in North Carolina - Any State License Accepted,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+962,"Med Career Center, Inc",2018-09,Large practice near Charlotte,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+964,"Med Career Center, Inc",2018-09,Hospitalist needed in NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+965,"Med Career Center, Inc",2018-09,Easy Access to Charlotte,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+966,"Med Career Center, Inc",2018-09,Advanced skilled GI needed in NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+967,"Med Career Center, Inc",2018-09,OBGYN's Needed in Scenic NE North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+968,"Med Career Center, Inc",2018-09,"Charlotte area, Neuromuscular preferred",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+970,BAS Healthcare,2018-09,Top GI Opportunity in Winston Salem/High Point NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+971,Continuum Medical Staffing,2018-09,Psychiatrist Hickory NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+972,MedStaff National Medical Staffing,2018-09,"Locum Tenens Pediatrics Opportunity in the Outer Banks, North Carolina",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+974,All Star Recruiting,2018-09,OBGYN needed for Call Coverage in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+975,LocumTenens.com,2018-09,New Locum Tenens Anesthesiology Need in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+976,Integrity Healthcare,2018-09,Hospitalist Opening 1 Hour from Outer Banks in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+977,Goldfish Medical Staffing,2018-09,North Carolina Neurology Locum Tenens Coverage Needed,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+978,Locums Unlimited,2018-09,Anesthesiologist locum tenen needed in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+979,TinkBird Healthcare Staffing / Locum Tenens & Perm,2018-09,"MD/DO Needed - Emergency Medicine - Eastern, NC - Permanent",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+980,Enterprise Medical Recruiting,2018-09,"Nocturnist Opening near Charlotte, NC",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+982,Jackson & Coker,2018-09,Internal Medicine Locums Physician Job in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+983,TinkBird Healthcare Staffing / Locum Tenens & Perm,2018-09,MD/DO Needed - FM/IM - Northeast NC area - Locum,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+984,Jackson & Coker,2018-09,Eastern North Carolina | Board Certified Gastroenterologist Locums Job,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+985,Jackson & Coker,2018-09,Full-time Locums Anesthesiologist needed in Northeast North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+986,Jackson & Coker,2018-09,Telepsychiatry Locums Job in North Carolina - Sporadic Twice a Month,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+987,"Med Career Center, Inc",2018-09,Psychatrist LOCUMS needed in NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+988,"Med Career Center, Inc",2018-09,Easy Beach Access,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+989,"Med Career Center, Inc",2018-09,"Hospitalist needed in NC, 1 hr to Charlotte",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+990,"Med Career Center, Inc",2018-09,Golf Lovers - Check this out,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+991,"Med Career Center, Inc",2018-09,"Multiple Subspecialty Needs, Great Location",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+992,BAS Healthcare,2018-09,Multiple Outpatient Opportunities in the Piedmont Triad,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+994,LocumTenens.com,2018-09,Locum Tenens Emergency Medicine Physicians Needed in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+995,Weatherby Healthcare,2018-09,Anesthesiology in NC - Locums: An Anesthesiologist is Needed for Temporary Coverage in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+996,Medicus Healthcare Solutions,2018-09,North Carolina Adult Psychiatry Opportunity,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+997,All Star Recruiting,2018-09,Psychiatry Locum,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+998,Jackson & Coker,2018-09,ACT Team Psychiatry Locums Job in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+999,Medical Search International,2018-09,Locum Opportunity - Internal Medicine - North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1000,"Hayman Daugherty Associates, Inc",2018-09,Telepsychiatry Medical Director in Eastern North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1001,"Med Career Center, Inc",2018-09,Hosp employed - Ped for NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1002,"Med Career Center, Inc",2018-09,NC Mountain living awaits you,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1003,"Med Career Center, Inc",2018-09,"Multispecialty Practice, near Charlotte",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1005,"Med Career Center, Inc",2018-09,"COASTAL, OUTPATIENT POSITION",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1007,"Med Career Center, Inc",2018-09,Coastal NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1008,BAS Healthcare,2018-09,Only 1 hour to Charlotte NC OBGYN need,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1009,BAS Healthcare,2018-09,North Carolina excellent General GI opening with loan repayment,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1010,Jackson & Coker,2018-09,North Carolina Internal Medicine Locums Job,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1011,BAS Healthcare,2018-09,Live in Winston-Salem,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1012,Enterprise Medical Recruiting,2018-09,Call Us ASAP - New North Carolina OB-GYN Position Now Scheduling Interviews,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1013,Weatherby Healthcare,2018-09,Neurology in NC - Locums: A Neurologist is Wanted for Locum Tenens Help in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1014,Signify Health,2018-09,Physician Needed North Carolina MD or DO - Nationwide Opportunities Available (All Specialties),0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1015,Alliance Recruiting Resources,2018-09,Join Growing Neurology Dept with Hospital In North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1016,LocumTenens.com,2018-09,Locum Tenens Anesthesiology Coverage Needed in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1017,Jackson & Coker,2018-09,Consult Liaison Psychiatry Locums Job - North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1018,Alliance Recruiting Resources,2018-09,OBGYN - Immediate need,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1019,Jackson & Coker,2018-09,Gastroenterologist Needed in North Carolina - 24 Hour Call Locums Job,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1020,Jackson & Coker,2018-09,Stroke Neurologist | Locums Job in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1021,All Star Recruiting,2018-09,Oncology Locum,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1023,LocumTenens.com,2018-09,Locum Tenens Psychiatrist Needed in North Carolina for Adult Admissions Unit,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1024,All Star Recruiting,2018-09,Pulmonology Critical Care physician needed in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1025,Alliance Recruiting Resources,2018-09,GI needed in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1026,"MD Staff Pointe, LLC",2018-09,"Anesthesiology Locums / Greensboro, NC",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1028,LocumTenens.com,2018-09,Locum Tenens Anesthesiologist Needed in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1029,"All Medical Personnel, LLC",2018-09,Neurology Physician,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1030,Weatherby Healthcare,2018-09,Pediatrics in NC - Locums: A Facility in North Carolina Needs a Temporary Pediatrician,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1031,All Star Recruiting,2018-09,Emergency Room Locums Need,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1032,Integrity Locums,2018-09,Locum OB/GYN Need in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1033,All Star Recruiting,2018-09,Inpatient Stroke Neurologist needed in North Carolina - 7 on 7 off,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1034,All Star Recruiting,2018-09,OBG Locums Opportunity in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1036,"All Medical Personnel, LLC",2018-09,Anesthesiology Physician,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1037,NetApp,2018-10,"Director, Inside Sales (26921)",0,IT Jobs,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1038,"Hayman Daugherty Associates, Inc",2018-10,Urgent Care Physician Job North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1039,"Hayman Daugherty Associates, Inc",2018-10,Emergency Medicine Physician Job North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1041,"Hayman Daugherty Associates, Inc",2018-10,ObGyn Physician Job North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1043,"Hayman Daugherty Associates, Inc",2018-10,"Rare opportunity with a private, democratic group in a beautiful area of central North Carolina with access to major cities",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1049,"Hayman Daugherty Associates, Inc",2018-10,Partnership opportunity near the pristine mountains of North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1050,"Hayman Daugherty Associates, Inc",2018-10,Partnership opportunity in beautiful lakeside North Carolina community,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1051,"Hayman Daugherty Associates, Inc",2018-10,New opportunity with an established emergency medicine team in a beautiful mountain community of North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1052,"Hayman Daugherty Associates, Inc",2018-10,Hospitalist Need for Research Triangle area of NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1057,"Hayman Daugherty Associates, Inc",2018-10,Anesthesiologist needed in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1058,"Hayman Daugherty Associates, Inc",2018-10,Internal Medicine Physician on in Western North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1060,"Hayman Daugherty Associates, Inc",2018-10,Internal Medicine opportunity in Raleigh Durham North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1061,Enterprise Medical Recruiting,2018-10,"Movement Disorders position in Winston Salem, NC",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1062,Alliance Recruiting Resources,2018-10,Central NC Lev II ER seeks BC EM Physicians,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1063,Enterprise Medical Recruiting,2018-10,NeuroHospitalist position in Charlotte NC,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1064,Jackson & Coker,2018-10,Emergency Medicine Locums Job in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1065,Enterprise Medical Recruiting,2018-10,"Med Ped Urgent Care Opening in Asheboro, NC",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1066,BAS Healthcare,2018-10,NC Hospitalist Opportunity with Visa Support and Loan Repayment,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1067,Enterprise Medical Recruiting,2018-10,Employed Neurology position just north of Charlotte,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1068,Onyx M.D.,2018-10,North Carolina Anesthesiologist Job Opening Near Raleigh Durham Area,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1069,BAS Healthcare,2018-10,Emergency Physician for Urgent Care Group,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1070,Alliance Recruiting Resources,2018-10,Family or Internal Medicine,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1071,Onyx M.D.,2018-10,Neurologist Needed in North Carolina for Part-Time Coverage,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1072,Alliance Recruiting Resources,2018-10,Internal Medicine,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1073,Jackson & Coker,2018-10,Urologist Locums Job in North Carolina | Weekend Call Coverage,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1074,Jackson & Coker,2018-10,24 Hour Call Coverage Locums Job in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1075,Enterprise Medical Recruiting,2018-10,"Urgent Care need in Asheboro, NC",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1076,Hearst Television,2018-10,Sales Account Associate- Entry Level,0,"PR, Advertising & Marketing Jobs",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+1077,Tribune Media   Broadcasting,2018-10,Account Executive,0,"PR, Advertising & Marketing Jobs",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+1078,Premier Research,2018-10,"Corporate Controller/ Vice President, Finance",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1079,Cox Media Group,2018-10,Digital Sales Manager,0,"PR, Advertising & Marketing Jobs",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+1080,NetApp,2018-10,Americas Program Marketing Manager (26657),0,IT Jobs,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1081,CISCO Systems,2018-10,"Security Engagement Manager, SSBR",0,IT Jobs,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1082,Hearst Television,2018-10,Producer,0,"PR, Advertising & Marketing Jobs",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+1083,Synteract,2018-11,Associate Project Manager,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1084,Synteract,2018-11,Clinical Project Manager,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1085,Synteract,2018-11,Statistical Programmer,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1086,Synteract,2018-11,Corporate Counsel - Data Privacy and Regulatory,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1087,Synteract,2018-11,Biostatistician,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1088,Synteract,2018-11,Clinical Trial Manager - Remote,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1089,CISCO Systems,2018-11,"Security Engagement Manager, SC",0,IT Jobs,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1090,Synteract,2018-11,"Manager, Clinical Data Management",0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1091,NetApp,2018-11,Software Engineering Manager (27614),0,IT Jobs,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1092,Hearst Television,2018-11,Account Executive,0,"PR, Advertising & Marketing Jobs",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+1093,Fairway Consulting Group,2018-11,"Executive Director, Market Access",0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1094,NetApp,2018-11,Secure Development Engineer (27795),0,IT Jobs,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1096,DELL,2018-11,Networking Sales Specialist - Carolinas (Remote),0,Sales Jobs,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+1097,Synteract,2018-11,Recruiter / Senior Recruiter,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1098,Perspecta,2018-11,Systems Engineer IV,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1099,Capgemini,2018-11,Actuarial Analyst,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1100,Capgemini,2018-11,SAS Programmer,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1101,Capgemini,2018-11,Ab Initio Sr Developer,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1102,Capgemini,2018-11,Data Privacy and Security Consutlant,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1103,CISCO Systems,2018-11,"Manager, Senior Software Development",0,IT Jobs,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1104,Tribune Media   Broadcasting,2018-11,Producer,0,"PR, Advertising & Marketing Jobs",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+1105,Hearst Television,2018-11,Anchor Reporter,0,"PR, Advertising & Marketing Jobs",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+1106,DELL,2018-11,Edge Analytics Business Development Manager,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1107,Nigel Frank International,2018-11,Dynamics GP - GP Support Specialist - Georgia - $100k,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1108,The Medicus Firm,2018-11,NC FP-up to $300K Base,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1109,The Medicus Firm,2018-11,NC Cardiology $500K,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1110,The Medicus Firm,2018-11,NC Geriatrics $257K Year One,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1111,Capgemini,2018-11,Software Engineer,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1112,CISCO Systems,2018-11,"Program Manager, Extended Communities, Information Security",0,IT Jobs,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1113,Capgemini,2018-11,Big Data Engineer,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1114,Capgemini,2018-11,Talend Developer,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1115,Capgemini,2018-11,Abinitio Developer,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1116,Capgemini,2018-11,Senior Software Engineer,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1117,Dell,2018-11,Devops Lead / Engineer,0,Engineering Jobs,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1120,CISCO Systems,2018-11,1250304 - Senior International Tax Manager,0,IT Jobs,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1122,esr,2018-11,Data and Analytics Specialist III 6 Months North Carolina Pan,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1123,CISCO Systems,2018-12,PMO Manager,0,Consultancy Jobs,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1124,CISCO Systems,2018-12,1248305 - Cisco Management Services - Incident Manager,0,IT Jobs,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1125,CISCO Systems,2018-12,Senior Manager - Technology Finance Partners,0,IT Jobs,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1126,Synchrony,2018-12,Inbound Fraud Support Representative - Full Time,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1127,Synchrony,2018-12,Customer Service Representative - Full Time,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1128,GlaxoSmithKline,2018-12,Head of Forecasting & Marketing Mix,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1129,GlaxoSmithKline,2018-12,Head of Commercial Data & Analytics,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1130,CISCO Systems,2018-12,"Manager, Infrastructure Security Architecture",0,IT Jobs,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1131,NetApp,2018-12,Americas Program Marketing Manager (26655),0,IT Jobs,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1132,Catalent,2018-12,Lab Automation and MES Program Manager,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1133,CISCO Systems,2018-12,1242677 - Customer Support Engineer - Enterprise Routing & Switching Hybrid,0,IT Jobs,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1134,ThermoFisher,2018-12,Procurement Manager,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1135,CISCO Systems,2018-12,Consulting Engineer,0,IT Jobs,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1136,CISCO Systems,2018-12,"Security Engineer, Endpoint",0,Consultancy Jobs,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1137,CISCO Systems,2018-12,"Security Engineer, Rails",0,Consultancy Jobs,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1138,VariQ Corporation,2018-12,Database Developer Level I,0,IT Jobs,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1139,Capgemini,2018-12,Software Engineer,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1141,Capgemini,2018-12,Senior Software Engineer,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1142,Capgemini,2018-12,Teradata Developer,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1143,Capgemini,2018-12,Ab Initio Architect,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1144,Capgemini,2018-12,Voltage Developer,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1145,Pryor Personnel Agency,2018-12,Life Actuarial Manager – PR10082,0,Other/General Jobs,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1146,Pryor Personnel Agency,2018-12,Senior P&C Actuarial Officer – PR10740,0,Accounting & Finance Jobs,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1147,Aureus Medical Group,2018-12,Physical Therapist,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1148,Aureus Medical Group,2018-12,Physical Therapist Assistant,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1149,Centra Healthcare,2018-12,Director,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1151,Encompass Health,2018-12,Physical Therapist,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1153,Capgemini,2018-12,Senior Data Modeler,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1154,Transport America,2018-12,$10K Sign on Bonus Dedicated PPG Team CDL A Truck Driver,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1155,CISCO Systems,2018-12,Software Architect,0,IT Jobs,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1157,Aureus Medical Group,2018-12,Occupational Therapist,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1158,CompHealth,2018-12,Speech-Language Pathologist,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1159,Aureus Medical Group,2018-12,Speech-Language Pathologist,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1161,Encompass Health,2018-12,Occupational Therapist,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1162,Aureus Medical Group,2018-12,Occupational Therapist Assistant,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1166,Fluke Networks,2018-12,"Plant Manager, Catlow",0,Admin Jobs,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1167,Fluke Networks,2018-12,Assembly Operator at Catlow,0,Manufacturing Jobs,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1168,Cox Media Group,2018-12,Technical Operator,0,"PR, Advertising & Marketing Jobs",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+1169,CBRE,2018-12,Building Engineer - Calibration,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1171,Worldpay US,2018-12,Strategic New Sales Rep,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1173,CBRE,2018-12,"Building Engineer, Mobile HVAC",0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1174,Centra Healthcare,2018-12,Physical Therapist,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1175,CompHealth,2018-12,Physical Therapist,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1176,CISCO Systems,2018-12,"Manager, Renewals Manager",0,IT Jobs,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1177,CISCO Systems,2018-12,1232007- Data Center Operations Manager,0,IT Jobs,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1178,CISCO Systems,2018-12,Escalation Engineer,0,Consultancy Jobs,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1179,CISCO Systems,2018-12,SW Business Architect & Capability Lead,0,IT Jobs,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1180,CISCO Systems,2018-12,"Program Manager, Unified Security Metrics, Information Security",0,IT Jobs,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1181,CISCO Systems,2018-12,Consulting Engineer - Mobility,0,IT Jobs,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1182,Centra Healthcare,2018-12,Occupational Therapist,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1183,Duke Eye Center,2018-12,ACADEMIC VITREORETINAL SURGERY FACULTY POSITION,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1184,Duke Eye Center,2018-12,CORNEA FACULTY POSITION,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1185,CISCO Systems,2018-12,"Security Engineer, Cloud",0,Consultancy Jobs,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1186,CISCO Systems,2018-12,"Manager, Virtual Sales",0,IT Jobs,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1187,CISCO Systems,2018-12,Strategic Engagement Representative,0,IT Jobs,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1188,Centra Healthcare,2018-12,Speech-Language Pathologist,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1190,NetApp,2018-12,Information Systems Engineer - Cloud (27731),0,IT Jobs,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1191,Hologic,2018-12,Payer Regional Manager,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1192,CISCO Systems,2018-12,SR Manager IT Cloud Transformation 1251749,0,IT Jobs,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1194,Premier Research,2018-12,Project Manager II / Senior Project Manager (home-based in the US),0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1195,CISCO Systems,2018-12,"Finance Director, Capital Operations - 1252300",0,IT Jobs,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1196,Hearst Television,2018-12,Order Specialist,0,"PR, Advertising & Marketing Jobs",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+1198,Capgemini,2018-12,Senior Data Analyst,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1199,Capgemini,2018-12,Power Designer Data Architect,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1200,Carlson Wagonlit Travel,2018-12,Travel Counselor / Agent / Consultant,0,Consultancy Jobs,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1201,La Z Boy Southeast,2018-12,Sales Professional,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1202,La Z Boy Southeast,2018-12,Sales Consultant - Northlake,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1203,CBRE,2018-12,Industrial Facilities Engineer - Associate Project Manager,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1205,Medical Facilities of America,2018-12,RN/LPN Charge Nurse,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1207,Medical Facilities of America,2018-12,RN/LPN Nurse - 4K Bonus,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1208,Capgemini,2018-12,Business Data Modeler,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1209,ENP Network,2018-12,Clinical Coverage Review Nurse Practitioner or PA - Telecommute,0,Admin Jobs,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1210,Capgemini,2018-12,Data Analyst,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1211,Tribune Media   Broadcasting,2019-01,Producer/Writer,0,"PR, Advertising & Marketing Jobs",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+1212,Cox Media Group,2019-01,Digital Campaign Coordinator- WSOC TV,0,"PR, Advertising & Marketing Jobs",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+1213,Tribune Media   Broadcasting,2019-01,Anchor/Reporter,0,"PR, Advertising & Marketing Jobs",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+1215,Tribune Media   Broadcasting,2019-01,Reporter/MMJ,0,"PR, Advertising & Marketing Jobs",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+1216,Centra Healthcare,2019-01,Physical Therapist,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1217,Centra Healthcare,2019-01,Speech-Language Pathologist,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1218,Transport America,2019-01,Dedicated Solo Tartan CDL A Truck Driver,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1219,Global Blood Therapeutics,2019-01,Medical Science Liaison - Southeast,0,Scientific & QA Jobs,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+1220,Tribune Media   Broadcasting,2019-01,Weekend Assignment Desk Editor/Web Producer,0,"PR, Advertising & Marketing Jobs",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+1221,Tribune Media   Broadcasting,2019-01,Photojournalist,0,"PR, Advertising & Marketing Jobs",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+1222,Hubbell Power Systems,2019-01,"Engineering Intern (Summer Arden, NC",0,Other/General Jobs,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1223,Premier Research,2019-01,Senior Record Specialist,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1224,US Bank,2019-01,OFP Mortgage Sales Mgr NMLS,0,Accounting & Finance Jobs,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1225,Weatherby Healthcare,2019-01,Physician - Locum Tenens Assistance is Wanted from OB/GYN in North Carolina,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1226,Triangle Business Journal,2019-01,Advertising Sales Manager,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1227,Aureus Medical Group,2019-01,Occupational Therapist,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1228,Aureus Medical Group,2019-01,Occupational Therapist Assistant,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1229,Moore & Van Allen,2019-01,Patent Agents,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1230,Intuit,2019-01,"Tax Expert - CPA, Enrolled Agent or Practicing Attorney Seasonal Remote",0,Legal Jobs,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+1231,Intuit,2019-01,Credentialed Tax Professional - CPA Enrolled Agent or Attorney - Seasonal Remote,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1232,Intuit,2019-01,Spanish Bilingual Tax Expert - CPA - Remote,0,Accounting & Finance Jobs,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1233,Intuit,2019-01,"Virtual Tax Professional - CPA, Enrolled Agent or Attorney",0,Accounting & Finance Jobs,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1234,Intuit,2019-01,Bilingual Spanish Tax Expert - CPA Seasonal Remote,0,Accounting & Finance Jobs,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1235,Intuit,2019-01,"Credentialed Tax Advisor - CPA, Enrolled Agent or Attorney - Seasonal Remote",0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1236,Intuit,2019-01,"Remote Tax Advisor - CPA, Enrolled Agent or Attorney",0,Legal Jobs,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+1237,Intuit,2019-01,Credentialed Bilingual Tax Advisor - CPA - Remote,0,Accounting & Finance Jobs,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1238,CISCO Systems,2019-01,Engineering Program Manager,0,IT Jobs,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1239,CISCO Systems,2019-01,Site Reliability Engineer,0,IT Jobs,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1240,CISCO Systems,2019-01,Site Reliability Engineeer,0,IT Jobs,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1241,CBRE,2019-01,"Building Engineer, Mobile role",0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1242,The University of North Carolina at Charlotte,2019-01,"Lecturer / Assistant Professor of Teaching, Construction Management or",0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1243,CBRE,2019-01,Electrician,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1244,CBRE,2019-01,HVAC Engineer,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1245,Covia Corp.,2019-01,Maintenance Electro-Mechanic (292033-836),0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1246,Centra Healthcare,2019-01,Physical Therapist Assistant,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1247,Confidential,2019-01,Entry SQL level Developer/Programmer,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1248,CISCO Systems,2019-01,1247111 Cloud Management Systems - Investment Analyst,0,IT Jobs,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1249,NetApp,2019-01,Solution Architecture Manager (27804),0,IT Jobs,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1250,The Pines at Davidson,2019-01,Director of Nursing,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1251,CyberCoders,2019-01,Construction Project Manager- Wastewater Treatment Plant,0,IT Jobs,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1252,Capgemini,2019-01,GLP & RIS- Technical Lead (TL) - Big Data,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1253,Capgemini,2019-01,Senior Business Analyst,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1254,Capgemini,2019-01,SalesForce - Senior Developer,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1255,Hearst Television,2019-01,PT Editor,0,"PR, Advertising & Marketing Jobs",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+1256,Durham County Government,2019-01,Paramedic,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1257,Creative Circle,2019-01,Events Coordinator,0,"PR, Advertising & Marketing Jobs",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+1258,CROMSOURCE,2019-01,Associate Medical Director,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1259,Capgemini,2019-01,Senior RPA Developer,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1260,Capgemini,2019-01,RPA Tech Lead,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1261,Capgemini,2019-01,RPA Developer,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1262,J. B. Hunt,2019-01,Over the Road Truck Driver,0,Logistics & Warehouse Jobs,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+1263,Cox Communications,2019-01,Sales Operations Manager - RapidScale,0,"PR, Advertising & Marketing Jobs",0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+1264,Cross Country TravCorps,2019-01,RN - Intensive Care Unit - 13wk Travel Job,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1265,Centra Healthcare,2019-01,Occupational Therapist,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1266,Cross Country TravCorps,2019-01,RN - Emergency Room - 13wk Travel Job,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1267,Cross Country TravCorps,2019-01,RN - Telemetry - 13wk Travel Job,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1268,Cross Country TravCorps,2019-01,Registered Nurse (RN) - 13 wk North Carolina contract,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1269,Dell,2019-01,Senior Product Manager-Competitive Intelligence for Data Protection/Storage Industry,0,Graduate Jobs,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1270,Hubbell Power Systems,2019-01,"Embedded Software Engineering Intern (Summer Archdale, NC",0,Other/General Jobs,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+1271,Cisco,2019-01,DevOps Automation Engineer,0,Manufacturing Jobs,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+1272,Five Star Senior Living,2019-01,Full Time CNA in Clinical,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1273,Five Star Senior Living,2019-01,Full Time in Clinical,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1274,Superior Oil Company Inc,2019-01,Sales Representative,0,Sales Jobs,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+1275,Securitas,2019-01,Special Event Security Officer - SUSA,0,Hospitality & Catering Jobs,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1276,Securitas,2019-01,Flex Officer - SUSA,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1277,Five Star Senior Living,2019-01,Fll Time CNA in Clinical,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1278,Five Star Senior Living,2019-01,Part Time CNA in Clinical,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1279,Aureus Medical Group,2019-01,Physical Therapist,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1280,Delta HealthCare Providers,2019-01,Speech-Language Pathologist,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1282,"Cruz Associates, Inc.",2019-01,Mission Planning Program Integrator,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1283,CompHealth,2019-01,Physical Therapist,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1285,VariQ Corporation,2019-01,Network Engineer,0,IT Jobs,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1286,CyberCoders,2019-01,Superintendent- Wastewater Treatment Plant,0,IT Jobs,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1288,Cisco,2019-01,DevOps Automation Engineer,0,Engineering Jobs,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1289,Cisco,2019-01,Compliance Remediation Consulting Engineer,0,Consultancy Jobs,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1290,INC Research,2019-01,Web and Online Media Manager,0,Admin Jobs,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1291,LabCorp,2019-01,Lead Technologist - Next Generation Sequencing (Lab Team Leader),0,Customer Services Jobs,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1292,Five Star Senior Living,2019-01,Full tim SIC/MT in Clinical,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1293,Five Star Senior Living,2019-01,Part time Dietary Aide in Dietary,0,Healthcare & Nursing Jobs,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1294,State of North Carolina,2019-01,Environmental Specialist Ii,0,Teaching Jobs,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+1295,Five Star Senior Living,2019-01,Full Time Lifestyle Program Director in Recreational Activities,0,Admin Jobs,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1296,Army National Guard,2019-01,Construction Vehicle Repairer,0,Trade & Construction Jobs,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+1297,CISCO Systems,2019-01,Renewals Manager,0,IT Jobs,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1298,CISCO Systems,2019-01,Customer Experience Support Engineer,0,IT Jobs,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1299,Harris Computer Systems,2019-01,"Clinical Process Consultant, Professional Services",0,IT Jobs,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+1300,Capgemini,2019-01,Big Data Developer,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+1301,Capgemini,2019-01,Senior Software Engineer,0,Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
